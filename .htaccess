@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteRule ^(.*)\.html$ $1.php [nc]
+
+#RewriteCond %{REQUEST_FILENAME} =-f
+#RewriteRule ^(.*)\.php$ $1.html [NC,L]
+#RewriteRule ^(.*)\.html$ $1.php [NC,L]
