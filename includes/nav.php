@@ -2,7 +2,7 @@
 	<li><a href="index.html">Home</a></li>
 	<li><a href="who.html">Who we are</a>
 		<ul>
-			<li><a href="who.html#values">Values, Vision, Mission</a></li>
+			<li><a href="who.html#values">Mission, Vision, Our Promise</a></li>
 			<li><a href="who.html#client">Our Clients</a></li>
 			<li><a href="who.html#test">Testimonials</a></li>
 			<li><a href="who.html#album">Our Albums</a></li>
@@ -11,8 +11,8 @@
 	<li><a href="expertise.html">Our Expertise</a>
 		<ul>
 			<li><a href="expertise.html#pro">Anita's profile</a></li>
-			<li><a href="expertise.html#phi">Anita's philosophy</a></li>
-			<li><a href="expertise.html#app">Approach - Facilitation and Coach Approach</a></li>
+			<li><a href="expertise.html#phi">Consulting Solution Approach</a></li>
+			<li><a href="expertise.html#app">Facilitative Approach & Process</a></li>
 		</ul>
 	</li>
 	<li><a href="corporate.html">What We Do</a>

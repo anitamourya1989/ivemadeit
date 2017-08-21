@@ -285,6 +285,7 @@ ADDRESS {
 .topup{
 	display: inline-block;
     float: right;
+    padding-top: 10px;
 }
 #content-right A {
 	TEXT-TRANSFORM: none
@@ -300,7 +301,7 @@ ADDRESS {
     /*WIDTH: 457px;
     HEIGHT: 257px;*/
     WIDTH: 467px;
-    HEIGHT: 180px;
+    HEIGHT: 170px;
     FLOAT: left;
     overflow: hidden;
 }
@@ -309,7 +310,7 @@ ADDRESS {
     FLOAT: right;
     WIDTH: 210px;
     HEIGHT: 144px;
-    padding: 10px;
+    padding: 10px 10px 0px 10px;
     border: 1px solid #aaa;
     border-radius: 15px;    
 }
@@ -798,16 +799,16 @@ h4.myname {
 
 @keyframes slidy {
 0% { left: 0%; }
-10% { left: 0%; }
+10% { left: -50%; }
 20% { left: -100%; }
-30% { left: -200%; }
-40% { left: -300%; }
-50% { left: -400%; }
-60% { left: -500%; }
-70% { left: -600%; }
-80% { left: -700%; }
-90% { left: -800%; }
-100% { left: -900%; }
+30% { left: -150%; }
+40% { left: -200%; }
+50% { left: -250%; }
+60% { left: -300%; }
+70% { left: -350%; }
+80% { left: -400%; }
+90% { left: -450%; }
+100% { left: -500%; }
 }
 
 div#slider { overflow: hidden; }
@@ -855,6 +856,11 @@ h5.high1{
     text-transform: uppercase;
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-weight: bold;
+}
+
+.darker{
+	color: #bf681b;
+	font-size: 16px;
 }
 
 .breadcrumb {

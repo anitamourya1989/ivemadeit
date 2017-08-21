@@ -1,5 +1,5 @@
 <?php
-$to = "contactme@anitamourya.com";
+$to = "anita@ivemadeit.com";
    $msgResp = '';
 if(isset($_POST['submit'])) {
    require 'phpmailer/PHPMailerAutoload.php';
@@ -53,12 +53,10 @@ if(isset($_POST['submit'])) {
 ?>
 
 <!-- <h3 class="offer">Our Best Offer</h3> -->
-<h3 class="hugh">Experience Coaching Conversation. Book your Free 45 minute session Today!</h3>
-<p class="para"><i>Coaching is a Universal Language for Change and Learning - CNN</i></p>
-<p class="para">The coaching experience offers a rare opportunity to stand back and take a fresh look at the
-practices and assumptions of a lifetime. Coaching reaffirms that believing in yourself is one of
-the most powerful choices you can make!</p>
-<h3 class="hugh">Take the Courage to be Coached. Book your Free 45 minute Session Now.</h3>
+<h3 class="hugh">Experience the fiercely liberating power of a Coaching Session with me, Anita, ASAP!!</h3>
+<p class="para"><i>Ask for your Free real-time Empower Session Right NoW!</i></p>
+<p class="para">The coaching experience offers a rare opportunity to stand back and take a fresh look at the practices and assumptions of a lifetime. Coaching reaffirms that <i>believing in yourself</i> is one of the most powerful choices you can make!</p>
+<h3 class="hugh">Take the Courage to be coached. And the possibility to change your world forever.</h3>
 <form class="ccc" method="post" name="ccc" action="">
    <div><?php echo $msgResp;?></div>
    <label>Name :</label>

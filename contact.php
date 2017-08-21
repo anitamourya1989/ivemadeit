@@ -140,12 +140,15 @@ if(isset($_POST['submit'])) {
         <table width="450" border="0" cellspacing="0" cellpadding="0">
             <tr>
                 <td width="250" valign="top">
-                    <label style="color: #002060;">Email:</label> <a href="mailto:anita@ivemadeit.com" title="Email">anita@ivemadeit.com</a><br /><br />
-                    <label style="color: #002060;">Mobile:</label> 96190 19066<br />
+                    <label style="color: #002060;">Email:</label> 
+                    <a class="darker" href="mailto:anita@ivemadeit.com" title="Email">
+                      anita@ivemadeit.com
+                    </a><br /><br />
+                    <label style="color: #002060;">Mobile:</label> <a class="darker">96190 19066</a><br />
                 </td>
                 <td width="250" valign="top">
-                    <label style="color: #002060;">Website:</label> <a href="http://www.ivemadeit.com">www.ivemadeit.com </a> </br><br />
-                    <label style="color: #002060;">Skype:</label> <a href="skype:call?anita.ivemadeit.com">anita.ivemadeit.com</a> </br>
+                    <label style="color: #002060;">Website:</label> <a class="darker" href="http://www.ivemadeit.com">www.ivemadeit.com </a> </br><br />
+                    <label style="color: #002060;">Skype:</label> <a class="darker" href="skype:call?anita.ivemadeit.com">anita.ivemadeit.com</a> </br>
                 </td>
             </tr>
         </table>
