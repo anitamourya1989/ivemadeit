@@ -15,8 +15,20 @@
 	<meta name="content-language" content="en" />
 	<link rel="stylesheet" type="text/css" href="css/default.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="css/print.css" media="print" />
+	<link rel="stylesheet" type="text/css" href="css/free-simple-slider.css" />
 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+	<script src="js/free-simple-slider.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function () {
+		    $('#slider-list1').freeSimpleSlider({
+		        dots: true,
+		        arrows: true,
+		        time: 5000,
+		        animation: "basic"
+		    });
+    	});
+	</script>
 </head>
 <body class="home">
 	<div id="container">
@@ -47,20 +59,18 @@
 
 				<?php include('includes/nav.php'); ?>
 
-<script type="text/javascript">
-var slides = document.querySelectorAll('#slider figure img');
-var currentSlide = 0;
-var slideInterval = setInterval(nextSlide, 2000);
-
-function nextSlide() {
-    slides[currentSlide].className = 'slide';
-    currentSlide = (currentSlide+1)%slides.length;
-    slides[currentSlide].className = 'slide showing';
-}
-</script>
 				<div id="advert">
 					<div id="advert-left">
-						<div id="slider">
+						<ul id="slider-list1" class="slider-list">
+							<li><img src="images/homepage/1_InterculturalManagement.jpg" alt></li>
+							<li><img src="images/homepage/2_CrossCulturalTeamCoaching.jpg" alt></li>
+							<li><img src="images/homepage/3_coaching.jpg" alt></li>
+							<li><img src="images/homepage/4_LifeCareerCoaching.jpg" alt></li>
+							<li><img src="images/homepage/5_StressManagement.jpg" alt></li>
+							<li><img src="images/homepage/6_CrossCulturalCommunication.jpg" alt></li>
+							<li><img src="images/homepage/7_Expats.jpg" alt></li>
+						</ul>
+						<!-- <div id="slider">
 							<figure>
 								<img src="images/homepage/1_Intercultural Management.jpg" alt>
 								<img src="images/homepage/2_Cross Cultural Team Coaching.jpg" alt>
@@ -69,19 +79,22 @@ function nextSlide() {
 								<img src="images/homepage/5_StressManagement.jpg" alt>
 								<img src="images/homepage/6_Cross Cultural Communication.jpg" alt>
 								<img src="images/homepage/7_Expats Successful Assignment in India.jpg" alt>
+ -->
 								<!-- <img src="images/homepage/Intercultural-Management.jpg" alt>
 								<img src="images/homepage/Corporate-Stress-Management.jpg" alt>
 								<img src="images/homepage/Cross Cultural Communication.jpg" alt>
 								<img src="images/homepage/Cross Cultural Team Coaching.jpg" alt>
 								<img src="images/homepage/Life-Career-Coaching.jpg" alt>
 								<img src="images/homepage/expats.jpg" alt>
-								<img src="images/homepage/coaching.jpg" alt> -->
-								<!-- <img src="images/homepage/Team-Coaching.jpg" alt>
+								<img src="images/homepage/coaching.jpg" alt>
+
+
+								<img src="images/homepage/Team-Coaching.jpg" alt>
 								<img src="images/homepage/World_People.jpg" alt>
 								<img src="images/homepage/youth.jpg" alt>
 								<img src="images/homepage/cultural.png" alt> -->
-							</figure>
-						</div>
+							<!-- </figure>
+						</div> -->
 					</div>
 					<div id="advert-right" style="background-color: #fff;background-image: none;">
 						<div class="home_icici">
@@ -102,37 +115,36 @@ function nextSlide() {
 					<div id="content-left">
 						<h3>
 							<tr align="left" valign="top">
-		           <!-- <td colspan="6" rowspan="4" bgcolor="#FFFFFF"><a href="corporate.html"><img src="images/corp_prog_image1.gif" width="239" height="98" border="0"></a> </td>
-		           <td colspan="6" rowspan="4" bgcolor="#FFFFFF"><a href="individual.html"><img src="images/ind_prog_image2.gif" width="239" height="98" border="0"></a> </td> -->
-		           <td colspan="6" rowspan="4" bgcolor="#FFFFFF"><a href="corporate.html#inter"><img src="images/homepage/HomePageNew.jpg" border="0" style="padding-top: 40px;"></a> </td>
-		           <td colspan="6" rowspan="4" bgcolor="#FFFFFF"><p class="xpadtop10 greep">Experience Coaching Conversation. Book your Free 45 minute session Today!</p></td>
-		       </tr>
-		   </h3>
-		   <!-- </div> -->
+							<!-- <td colspan="6" rowspan="4" bgcolor="#FFFFFF"><a href="corporate.html"><img src="images/corp_prog_image1.gif" width="239" height="98" border="0"></a> </td>
+							<td colspan="6" rowspan="4" bgcolor="#FFFFFF"><a href="individual.html"><img src="images/ind_prog_image2.gif" width="239" height="98" border="0"></a> </td> -->
+							<td colspan="6" rowspan="4" bgcolor="#FFFFFF"><a href="corporate.html#inter"><img src="images/homepage/HomePageNew.jpg" border="0" style="padding-top: 40px;"></a> </td>
+							<td colspan="6" rowspan="4" bgcolor="#FFFFFF"><p class="xpadtop10 greep">Experience Coaching Conversation. Book your Free 45 minute session Today!</p></td>
+						</tr>
+					</h3>
+				</div>
+				<div id="content-right">
+					<p>
+						<h3 class="style2">
+							‘I’ve Made It’ is a Training and Education Organization that provides content and methods for enhancing performance to personalize success experiences at work and in life.
+						</h3>
+						‘I’ve Made It’ recognizes that the workplace in which people are trying to secure their livelihood has undergone a transformation. Recent advances in information and communications technologies, immigration, global virtual offices, have begun to accelerate the rate of change in the workplace, making it volatile and unpredictable. So our work environment adds pressure to learn new things everyday to stay ahead. Therefore, we have to undergo a transformation in order to survive and succeed in an uncertain future. And there’s more…
+						<br /><br />
+						Forever, success has been defined by external experiences. We have let external forces determine who we really are, in relation to ourselves, and the corporate world. We seek the thrill of accomplishments tirelessly, using competitiveness as the ultimate tool. We succumb to the unconscious need to prove our capability to meet and exceed the standards set by others. <br /><br />
+						Once you grasp that authentic evolution is not a matter of winning, but taking pride in progress AT OUR OWN PACE, the YOU is reflected in the WE, (teams, family) which in turn positively affects ALL (World)<br /><br />
+					</p>
+				</div>
+			</div>
 		</div>
-		<div id="content-right">
-			<p>
-				<h3 class="style2">
-					‘I’ve Made It’ is a Training and Education Organization that provides content and methods for enhancing performance to personalize success experiences at work and in life.
-				</h3>
-				‘I’ve Made It’ recognizes that the workplace in which people are trying to secure their livelihood has undergone a transformation. Recent advances in information and communications technologies, immigration, global virtual offices, have begun to accelerate the rate of change in the workplace, making it volatile and unpredictable. So our work environment adds pressure to learn new things everyday to stay ahead. Therefore, we have to undergo a transformation in order to survive and succeed in an uncertain future. And there’s more…
-				<br /><br />
-				Forever, success has been defined by external experiences. We have let external forces determine who we really are, in relation to ourselves, and the corporate world. We seek the thrill of accomplishments tirelessly, using competitiveness as the ultimate tool. We succumb to the unconscious need to prove our capability to meet and exceed the standards set by others. <br /><br />
-				Once you grasp that authentic evolution is not a matter of winning, but taking pride in progress AT OUR OWN PACE, the YOU is reflected in the WE, (teams, family) which in turn positively affects ALL (World)<br /><br />
-			</p>
+		<!--//Footer-->
+		<?php include('includes/footer.php'); ?>
+		<div id="disclaimer">
+			<h3 class="hide">Disclaimer</h3>
 		</div>
 	</div>
-</div>
-<!--//Footer-->
-<?php include('includes/footer.php'); ?>
-<div id="disclaimer">
-	<h3 class="hide">Disclaimer</h3>
-</div>
-</div>
-<div id="container-right">
-	<?php include('includes/right-sidebar.php'); ?>
-</div>
-<div class="cleaner"></div>
+	<div id="container-right">
+		<?php include('includes/right-sidebar.php'); ?>
+	</div>
+	<div class="cleaner"></div>
 </div>
 </body>
 </html>

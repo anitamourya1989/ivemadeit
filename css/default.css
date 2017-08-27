@@ -890,14 +890,14 @@ h5.high1{
 }
 
 .testt {
-    display: inline-block;
+    display: inline-block;    padding-bottom: 40px;
 }
 
 blockquote {
     /* font-size: 16px; */
     padding: 18px 20px 1px 20px;
     margin-left: 35px;
-    margin-bottom: 40px;
+    /*margin-bottom: 40px;*/
     background: #f2f1f6;
     line-height: 15px;
     border-bottom-right-radius: 15px;
