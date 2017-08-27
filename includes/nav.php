@@ -19,9 +19,9 @@
 		<ul>
 			<li><a href="corporate.html">Corporate Programs</a>
 				<ul>
-					<li><a href="intercultural-management-workshops.html">Intercultural Management Workshops</a></li>
-					<li><a href="consultancy-3c.html">Consultancy - 3 C's</a></li>
-					<li><a href="coaching.html">Coaching</a></li>
+					<li><a href="intercultural-management-workshops.html">Intercultural Workshops</a></li>
+					<li><a href="consultancy-3c.html">Expats in India Programs</a></li>
+					<li><a href="coaching.html">Intercultural Coaching</a></li>
 				</ul>
 			</li>
 			<li><a href="career-coaching.html">Individual Programs</a>
