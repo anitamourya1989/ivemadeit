@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<title>'I've Made It' | Intercultural Management Workshops</title>
+	<title>'I've Made It' | Intercultural Workshops</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="keywords" content="I've made it, Ive made it, I made it, I have made it, training for success, made it, made, success, coaching, personalize success, career change, newcomers, entrepreneurs, rejoining workforce, lunch and learn, corporate training, keynote speaker, life skills coaching, learn to make it, training philosophy, training benefits, proactive habit, you factor, organic success, Interpreter of Success, Made it, I made it, eastern roots, ancient wisdom, innate wisdom, self realization, consciousness, diversity, understanding diversity, compassionate communication, Your DNA of SUccess, thinking styles, learning styles,innovative learning experiences, competitive edge, effectiveness edge,sustainable training,charting future, manifesting success, uniqueness, feel special, project training, manager training, yoga, whole brain thinking, stress, self image,success beliefs, success styles, success wisdom, success knowledge,success habits, success action, DNA, DNA Map, SMART GOALS, self help, speaker, meditation, motivational speaker, self-help guru, get the edge, daily inspiration, customized strategies, Anita Sachdev, Anita, Sachdev," />
 	<meta name="description" content="‘I've Made It' is Training and Education Organization that provides content and methods for enhancing performance to personalize success experiences at work and in life. Train for Success with Anita Sachdev" />
@@ -53,7 +53,7 @@
 						<h5 class="high1">Your Clarity Compass</h5>
 					</div>
 					<div id="adv-right" style="background-color: #fff;background-image: none;">
-						<img src="images/career.jpg">
+						<img src="images/bannerTop/career.jpg">
 					</div>
 				</div>
 

@@ -15,12 +15,17 @@
 			<li><a href="expertise.html#app">Facilitative Approach & Process</a></li>
 		</ul>
 	</li>
-	<li><a href="corporate.html">What We Do</a>
+	<li><a href="intercultural-management-workshops.html">What We Do</a>
 		<ul>
-			<li><a href="corporate.html">Corporate Programs</a>
+			<li><a href="intercultural-management-workshops.html">Corporate Programs</a>
 				<ul>
 					<li><a href="intercultural-management-workshops.html">Intercultural Workshops</a></li>
 					<li><a href="consultancy-3c.html">Expats in India Programs</a></li>
+				</ul>
+			</li>
+			<li><a href="coaching.html">Leadership Programs</a>
+				<ul>
+					<li><a href="coaching.html">Executive Coaching</a></li>
 					<li><a href="coaching.html">Intercultural Coaching</a></li>
 				</ul>
 			</li>

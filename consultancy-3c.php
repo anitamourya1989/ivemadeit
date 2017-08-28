@@ -53,7 +53,7 @@
 						<h5 class="high1">Your Clarity Compass</h5>
 					</div>
 					<div id="adv-right" style="background-color: #fff;background-image: none;">
-						<img src="images/career.jpg">
+						<img src="images/bannerTop/expats.jpg">
 					</div>
 				</div>
 				<div id="content">
