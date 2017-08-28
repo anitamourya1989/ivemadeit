@@ -154,7 +154,7 @@
 						<a name="testimonials"></a>
 						<div class="vertical">Testimonial</div>
 						<blockquote>
-							<h3 style="font-size: 13px;"><i>Transition from Job to Entrepreneur</i></h3>
+							<!-- <h3 style="font-size: 13px;"><i>Transition from Job to Entrepreneur</i></h3> -->
 							<p><i>My wife and I were lucky to have you as our Career Coach. You helped us immensely to get ourselves acquainted to altogether a new place a new life which made our life simpler & easier. You did an awesome job with great honesty & professionalism to make us actually understand who we are ? The conversations we had were truly enriching and gave us the confidence we could be whoever we can be. What are our hidden talents and real strengths through the Self-Discovery Process including the profiling and assessments. Your approach to resume writing and Interviews were something we had never experienced before and we were shortlisted in every interview.  We would enthusiastically recommend you to anyone who really wants to undergo self-discovery to discover their talents and strengths and consciously use it and get their own success formula and personal branding.</i><br>
 							<i><strong>- Mr. N. Despande and Mrs. S. Despande.</strong></i></p>
 						</blockquote>
