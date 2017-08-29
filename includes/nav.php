@@ -35,7 +35,7 @@
 	<li><a href="career-executive-coaching.html">Individual Programs</a>
 		<ul>
 			<li><a href="career-executive-coaching.html">Career Coaching</a></li>
-			<li><a href="life-executive-coaching.html">Life Coaching</a></li>
+			<li><a href="life-coaching.html">Life Coaching</a></li>
 		</ul>
 	</li>
 	<!-- <li><a href="intercultural-workshops.html">What We Do</a>
