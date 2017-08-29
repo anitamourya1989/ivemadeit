@@ -57,9 +57,8 @@
 					</div>
 				</div>
 				<div id="content">
-					<h3 class="breadcrumb">What We Do > Individuals Programs > Career Coaching </h3>
+					<h3 class="breadcrumb">Individuals Programs > Career Coaching</h3>
 					<div id="content-left">
-						<!--//Core values-->
 						<div id="core-values">
 							<!-- <h3>Career Coaching </h3> -->
 							<ul>
@@ -109,8 +108,9 @@
 						<h3>What is Career Coaching?</h3>
 						<span class="topup">[<a href="#">top</a>]</span>
 						<div class="clearfix"></div>
-						<p>The International Federation of Coaching (ICF) opines that a career coach partners with a career aspirant in a thought-provoking and creative process that inspires the aspirant to maximize personal and professional potential. </p>
-						<p>Put simply, Career Coaching supports professionals assess their situations with a greater degree of curiosity and empathy to shift their attitudes, beliefs about themselves and their potential to pursue a career linked with their innermost passion. </p>
+						<p>Does your career need a new song-sheet or simply some fine tuning?</p>
+						<p>The International Federation of Coaching (ICF) opines that a career coach and career aspirant harmonize in a thought-provoking and creative process that inspires the aspirant to maximize personal and professional potential. </p>
+						<p>Put simply, Career Coaching supports professionals assess the cadence of their situations with curiosity and empathy to shift their attitudes, beliefs about themselves and their potential to pursue a career linked with their innermost passion.</p>
 						
 						<a name="hires"></a>
 						<h3>I&rsquo;ve Made It Mandate - Career Development by Choice not Chance!</h3>

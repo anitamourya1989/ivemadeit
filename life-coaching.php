@@ -50,15 +50,15 @@
 				<div id="advert">
 					<div id="adv-left">
 						<h3 class="high1">Life Coaching</h3>
-						<h5 class="high1">Dynamic Will to Clarity</h5>
+						<h5 class="high1">Dynamic Rhythm</h5>
 					</div>
 					<div id="adv-right" style="background-color: #fff;background-image: none;">
-						<img src="images/bannerTop/life-coaching.png">
+						<img src="images/bannerTop/LifeCoaching.jpg">
 					</div>
 				</div>
 
 				<div id="content">
-					<h3 class="breadcrumb">What We Do > Individuals Programs > Life Coaching </h3>
+					<h3 class="breadcrumb">Individuals Programs > Life Coaching </h3>
 					<div id="content-left">
 						<!--//Core values-->
 						<div id="core-values">
@@ -97,8 +97,8 @@
 					<div id="content-right">
 						<a name="ccd"></a>
 						<h3>Life Coaching – It’s about taking chances and striking the right chord!</h3>
-						<!-- <span class="topup">[<a href="#">top</a>]</span>
-						<div class="clearfix"></div> -->
+						<span class="topup">[<a href="#">top</a>]</span>
+						<div class="clearfix"></div>
 
 						<p>In today’s world we want it all! And why not!  With the ever-changing landscape and expectations we have of ourselves and for our families, it is difficult to manage, prioritize and bring about the changes to take us where we want to be.  </p>
 						<p>Life Coaching offers the rare opportunity to stand back and take a fresh look at the myriad shades of life so you can grab opportunities today and into the future.  Interwoven and enormously powerful Life Coaching is a transformative experience founded on getting clarity and dynamic will for the road to life ahead. </p>
@@ -151,6 +151,9 @@
 							<!-- <h3 style="font-size: 13px;"><i>Gain Deep Life-Clarity.   Sign up for your Free 45 Minute Coaching Session today</i></h3> -->
 							<p><i>“A coach is someone who understands and works with the coachee to achieve the goals. I see Anita's approach as action-driven with an in-depth knowledge. It is amazing to be in session with Anita as she navigates through complex human emotions, situations and jumbled thoughts and in a sentence a new world of opportunities would open up for me.  My experience with her is very unique and am now hopeful of my future as a new migrant to Canada”.<br>
 								<strong>- R Kodali - Ex-VP Information Technology - R. R. Donnelly</strong></i></p>
+							<p></p>
+							<p></p>
+							<p></p>
 							</blockquote>
 						</div>
 					</div>

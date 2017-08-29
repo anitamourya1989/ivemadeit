@@ -124,7 +124,7 @@
 				</div>
 				<div id="content-right">
 					<p>
-						<h3 class="style2">
+						<h3 class="style2" style="width: auto !important;">
 							‘I’ve Made It’ is a Training and Education Organization that provides content and methods for enhancing performance to personalize success experiences at work and in life.
 						</h3>
 						At <strong>I’ve Made It</strong>, Personal Success is defined by forward momentum or perception of a positive change in every moment of our lives by anchoring in the center of their potential self.  Our mission is to conduct aware and pragmatic people activating the heart and mind of Leaders in global roles. We want expats and global teams not to shy away from differences but to look at heterogeneity as platforms for creativity - exciting, inspiring and enriching opportunity. The leaders transition from global formality to global comfort anchored in cultural intelligence and navigating with ease complex cultural tapestries. <br /><br />

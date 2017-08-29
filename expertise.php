@@ -51,7 +51,7 @@
 					</div>
 					<div id="adv-right" style="background-color: #fff;background-image: none;">
 						<img src="images/anita.jpg" style="width: 93px;float: right;">
-						<h3 style="float: right;">Anita Sachdev</h3>
+						<h3 style="float: right;clear: right;">Anita Sachdev</h3>
 					</div>
 				</div>
 				<div id="content">
@@ -125,6 +125,8 @@
 
 						<p>Anita&rsquo;s approach has a solid focus on helping leaders and teams reinvent and adapt their operational styles in their country and the subsequent shifts that are needed in attitude, approach and behavior to be a leader and a team player in a new country. Result: aiding the transition from Global Formality to Global Comfort with the proprietary &ldquo;Uni-Cultural Code&rdquo; delivered via facilitation and coaching.&nbsp;</p>
 
+						<hr class="style16">
+
 						<h3>Facilitation Focus</h3>
 						<span class="topup">[<a href="#">top</a>]</span>
 						<div class="clearfix"></div>
@@ -133,10 +135,14 @@
 							Her ability to inspire people to question conventional wisdom and embrace change resulting in positive outcomes is part of her unique facilitation style. It blends constructive realism with humor to engage self-awareness and clarity of purpose.  She is known for delivering programs in:  vision facilitation, communication to connect, managers as coaches, strength based leader, present to influence, Cross cultural programs: expat leaders in India, globally competent teams with country specific focus, cross cultural communication. 
 						</p>
 
+						<hr class="style16">
+
 						<h3>Coaching Focus</h3>
 						<span class="topup">[<a href="#">top</a>]</span>
 						<div class="clearfix"></div>
 						<p>Essence Coaching focus is - Be your own Guru. Become a Transformational Leader. Find your Dynamic Equilibrium. Anita’s approach has a solid focus on Coaching leaders and teams to reinvent and adapt their operational styles in VUCA world along with the shifts in attitude, approach and behavior to be a leader and/or a team player in a new role or international assignment. As a coach, operates from 4 key mindset: Listening deeply, authentic speaking, questioning from a place of wonder, spacious silence. Actively coaches women to be successful leaders and crusades with organization on the need to build “Women Leaders” as well as formalized Diversity and Inclusion practices. She is on the leadership coaching team Executive for Asia: <a href="http://www.executivedevelopment.com/OurTeam/AsiaPacificAPACTeam/tabid/163/Default.aspx">Click here to know more</a></p>
+
+						<hr class="style16">
 
 						<h3>Hobbies</h3>
 						<span class="topup">[<a href="#">top</a>]</span>
@@ -154,6 +160,8 @@
 							target="_blank">Interview with Anita – Canadian paper</a>
 						</div>
 						
+						<hr class="style16">
+
 						<a name="phi"></a>
 						<h3>Systematic Approach to Consulting Solutions:</h3>
 						<span class="topup">[<a href="#">top</a>]</span>
@@ -177,6 +185,8 @@
 							<li>Effective and spacious locations to deliver effective processes and individual reflection.</li>
 						</ul>
 
+						<hr class="style16">
+
 						<a name="app"></a>
 						<h3>Facilitative Approach and Process</h3>
 						<span class="topup">[<a href="#">top</a>]</span>
@@ -197,67 +207,6 @@
 						</ul><br>
 
 						<p><strong><em>We use methodology and approach which is pragmatic and aligned with group needs. Depending on the maturity of the group, the subject matter, group mix, space arrangements, we pick facilitation, training or a facilitation/Training combo delivery method.&nbsp; &nbsp;</em></strong></p>
-
-						<!-- <h3>I&rsquo;ve Made it Approach in Delivering Effective Consulting solutions:</h3>
-
-						<ul>
-							<li>Identify the learning priorities in your organization or team.</li>
-							<li>Design the process based on an understanding of the priorities, needs and values of the entire system</li>
-							<li>Observe the challenges by shadowing employees to design effective program</li>
-							<li>Develop a personalized learning journey for your people and/or teams with facilitated interventions like workshops, virtual programs and coaching.</li>
-							<li>Set the tone for learning with pre work and program outcomes</li>
-							<li>Examine solutions in light of how they will be designed and sustained by creating a safe space, respectful listening, and empathy.</li>
-							<li>Anchor the face to face workshops with follow up such as : 
-								<ul>
-									<li>manager coaching</li>
-									<li>observing behaviors in real time</li>
-									<li>buddy systems</li>
-									<li>usage of Intranet to share key learning reminders</li>
-								</ul>
-							</li>
-							<li>Effective and spacious locations to deliver effective processes and individual reflection.</li>
-						</ul>
-						<br>
-						<a name="app"></a>
-						<h3>Facilitative Approach to Program Delivery &amp; Process</h3>
-
-						<p><strong><em>I&rsquo;ve Made It facilitation, training, coaching support participants to Gain a Voice of Clarity and Self-Realization with deep understanding they have Made It before and with confidence believe they have what it takes to face the future.</em></strong></p>
-
-						<p>We use methodology and approach which is pragmatic and aligned with group needs. Depending on the maturity of the group, the subject matter, group mix, space arrangements, we pick facilitation, training or a combo delivery method.&nbsp; It can potentially look like this:</p>
-
-						<ol>
-							<li>Primary Facilitation &amp; Dialogues to gain consensus</li>
-							<li>Training - Subject Matter Approach when sharing Models, Frameworks, Thought Processes, Debriefing Assessments, New Topics and Ideas&nbsp;&nbsp;</li>
-						</ol>
-
-						<h3>Why Facilitative Approach?</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
-						<div class="clearfix"></div>
-
-						<p>Ingrid Bens (2005) philosophy and approach as Facilitators is an integral part of my belief system and expresses itself at all times!</p>
-
-						<p>Facilitative Approach is:</p>
-
-						<ul>
-							<li>Grounded in a sincere respect for all group members regardless of their age, rank or cultural group.</li>
-							<li>A transparent endeavor characterized by honesty and positive intent.</li>
-							<li>Everyone possesses innate wisdom that can be harnessed and channeled for the good of the whole.</li>
-							<li>Facilitation activities aim to foster co-operation and commitment.</li>
-							<li>Facilitators advocate empowerment and participation so that groups buy in and own the outcomes of their deliberations.</li>
-							<li>Value the synergistic power of collective thought and strive to help groups arrive at a collaborative decision that represents a win for all parties.</li>
-						</ul>
-						<br> -->
-
-						<!-- <h3>I&rsquo;ve Made It&rsquo;s Delivery Process : Gain Sharper Clarity</h3>
-
-						<ul>
-							<li>Explores the ability to recognize and develop indicators of success that are innately within you.</li>
-							<li>Taps into judgment, creativity, intelligence, insights which have filtered into experiences to date and transforms it into knowledge and confidence.</li>
-							<li>Shifts lens and perspectives to manage ambiguous situations viz. working across borders, new roles.</li>
-							<li>Thought-provoking and stimulates the practical and creative thinker. It extends and expands the skills of participants with sharper focus making a permanent shift.</li>
-							<li>Simple and organic process that interweaves timeless teachings with one&#39;s Personal Power Centre to address future opportunities and challenges.</li>
-						</ul>
-						<br> -->
 
 					</div>
 				</div>
