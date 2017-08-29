@@ -41,18 +41,6 @@
 		<div id="container-center">
 			<div id="header">
 				<?php include('includes/sm.php'); ?>
-				<h3 class="hide">Header Links</h3>
-				<a href="#" id="logo"><span>Return back to home</span></a>
-				<ul id="headerlinks">
-					<li><a href="individual.html" id="sitemap">coaching<br /> 
-						programs</a>
-					</li>
-				</ul>
-				<ul id="headerlinksa">
-					<li><a href="corporate.html" id="accessibility">corporate<br /> 
-						programs</a>
-					</li>
-				</ul>
 			</div>
 			<div id="wrapper">
 				<h3 class="hide">Navigation</h3>
@@ -125,9 +113,10 @@
 				<div id="content-right">
 					<p>
 						<h3 class="style2" style="width: auto !important;">
-							‘I’ve Made It’ is a Training and Education Organization that provides content and methods for enhancing performance to personalize success experiences at work and in life.
+							I’ve Made It is a Training and Coaching Consultancy that provides content and methods for enhancing performance with clarity, weaving personal growth and business success into the fabric of both work and life. 
 						</h3>
-						At <strong>I’ve Made It</strong>, Personal Success is defined by forward momentum or perception of a positive change in every moment of our lives by anchoring in the center of their potential self.  Our mission is to conduct aware and pragmatic people activating the heart and mind of Leaders in global roles. We want expats and global teams not to shy away from differences but to look at heterogeneity as platforms for creativity - exciting, inspiring and enriching opportunity. The leaders transition from global formality to global comfort anchored in cultural intelligence and navigating with ease complex cultural tapestries. <br /><br />
+						At <strong>I’ve Made It</strong>, Personal Success is defined by forward momentum or perception of a positive change in every moment of our lives by anchoring in the center of their potential self.  Our mission is to conduct aware and pragmatic people activating the heart and mind of Leaders in global roles.</p>
+						<p>Our objective is for expats and global teams not to shy away from differences but to look at heterogeneity as platforms for creativity - exciting, inspiring and enriching opportunity. The leaders transition from global formality to global comfort anchored in cultural intelligence and navigating with ease complex cultural tapestries. <br /><br />
 						We envision tomorrow. Our envisioning of the future resonates in our thought process right from the first note. With consistent focus on thoughtful learning, sustainable development and innovative use of resources, we help you create a strong rich symphony.  No wonder we are considered a reliable companion you can connect with.  <br /><br />
 						<strong>“I’ve Made It”</strong> was founded by principal Anita Sachdev who specializes in cultivating global mind-sets and providing practical, real-time solutions to challenges in Global-Local work environments through customized coaching and facilitation.  Based in Mumbai and Toronto, <strong>I’ve Made It</strong> provides expert learning and development inputs to ensure people and systems operate effectively across world cultures with resounding clarity. <br /><br />
 						Amidst the ever-growing uncertainty and ambiguity of modern life, let us be your partner organization setting the tone for leadership and facilitating growth by creating shifts in mental, attitude, emotions, skills; delivery leaders with inner strength and the wisdom to be effective.<br /><br />

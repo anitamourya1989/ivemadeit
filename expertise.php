@@ -114,7 +114,7 @@
 						<a name="pro"></a>
 
 						<h3>Global Culture Consultant, Facilitator, Essence Coach</h3>
-						<!-- <span class="topup">[<a href="#">top</a>]</span> -->
+						<span class="topup">[<a href="#">top</a>]</span>
 						<div class="clearfix"></div>
 
 						<p><q><i><strong>I believe we are all individual or collective brands capable of packing a global wallop. Success is not the domain of a privileged few. I believe that we have All Made It.</strong></i></q>- Anita Sachdev</p>
@@ -150,6 +150,8 @@
 
 						<p>Anita&rsquo;s &ldquo;wings and roots&rdquo; philosophy reflects her ease in exploring new dimensions in her work held together by a grounded spiritual understanding. &nbsp;She engages the heart with classical Indian music, theatre and films along with reading and appeasing her palate to offering of different cuisines and restaurants with friends and family.</p>
 
+						<hr class="style16">
+						
 						<a name="pro"></a>
 						<!-- <img name="anita" src="images/anita.jpg" alt="Anita Sachdev" /> -->
 						<!-- <h3>My Profile</h3> -->

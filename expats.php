@@ -29,18 +29,6 @@
 		<div id="container-center">
 			<div id="header">
 				<?php include('includes/sm.php'); ?>
-				<h3 class="hide">Header Links</h3>
-				<a href="index.html" id="logo"><span>Return back to home</span></a>
-				<ul id="headerlinks">
-					<li><a href="individual.html" id="sitemap">coaching<br /> 
-						programs</a>
-					</li>
-				</ul>
-				<ul id="headerlinksa">
-					<li><a href="corporate.html" id="accessibility">corporate<br /> 
-						programs</a>
-					</li>
-				</ul>
 			</div>
 			<div id="wrapper">
 				<h3 class="hide">Navigation</h3>
@@ -156,6 +144,7 @@
 
 						<p>Programs are delivered virtually with available technologies, one on one or group interactions to gain macro understanding followed by coaching sessions to support clients during multiple transition periods experienced while doing business in India.  We use varied cultural assessments and during training and coaching sessions work both the alignment and gaps with cultures and flex style to be an effective leader. </p>
 
+						<p>I’ve Made It - Creating resonance and facilitating growth for global leaders, expats in India, managers and teams with global roles.</p>
 					</div>
 					<div class="testt">
 						<a name="testimonials"></a>

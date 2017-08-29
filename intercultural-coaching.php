@@ -29,18 +29,6 @@
 		<div id="container-center">
 			<div id="header">
 				<?php include('includes/sm.php'); ?>
-				<h3 class="hide">Header Links</h3>
-				<a href="index.html" id="logo"><span>Return back to home</span></a>
-				<ul id="headerlinks">
-					<li><a href="individual.html" id="sitemap">coaching<br /> 
-						programs</a>
-					</li>
-				</ul>
-				<ul id="headerlinksa">
-					<li><a href="corporate.html" id="accessibility">corporate<br /> 
-						programs</a>
-					</li>
-				</ul>
 			</div>
 			<div id="wrapper">
 				<h3 class="hide">Navigation</h3>
@@ -58,16 +46,17 @@
 				<div id="content">
 					<h3 class="breadcrumb">Corporate Programs > Coaching > Intercultural Coaching </h3>
 					<div id="content-left">
-						<!--//Core values-->
 						<div id="core-values">
 							<!-- <h3>Career Coaching </h3> -->
 							<ul>
 								<li><a href="#inter" class="left-link">Intercultural Coaching</a></li>
 								<li><a href="#adv" class="left-link">The Coaching Advantage!</a></li>
 								<li><a href="#coach" class="left-link">Your Coach</a></li>
+								<li><a href="#deliver" class="left-link">Delivery Format:</a></li>
 							</ul>
 						</div>
-						<div class="left-border">
+						<img src="images/bannerTop/why-we-coach.jpg">
+						<!-- <div class="left-border">
 							<h3>Our Career Services:</h3>
 							<ol>
 								<li><strong>Career Transition:</strong> Thriving Emotionally & Financially during Change</li>
@@ -76,7 +65,7 @@
 								<li><strong>Resume Writing/CV :</strong> Compete with International Approaches</li>
 								<li><strong>Behavioural Interview Preparation:</strong> Gain Strategic Advantage and get the job</li>
 							</ol>
-						</div>
+						</div> -->
 					</div>
 					<div id="content-right">
 						<a name="inter"></a>
@@ -85,9 +74,9 @@
 						<div class="clearfix"></div>
 						<p>for Global Leaders, Managers and Teams with Global Roles, Expats in India</p>
 
-						<p>Given the fact over 60% of all international ventures fail due to cross cultural issues, <strong>I&rsquo;ve Made It</strong> strives to ensure organizations succeed globally with a sharper focus on developing intercultural competency and communication. In this hyper-connected world the need of the hour is building understanding between peoples, religions and ways of life.  The mandate for leaders is to leverage cultural differences and proactively see uniqueness in different cultures.</p>
+						<p>Given the fact over 75% of all international ventures fail due to cross cultural issues, <strong>I&rsquo;ve Made It</strong> strives to ensure organizations succeed globally with a sharper focus on developing intercultural competency and communication. In this hyper-connected world the need of the hour is building understanding between peoples, religions and ways of life.  The mandate for leaders is to leverage cultural differences and proactively see uniqueness in different cultures. </p>
 
-						<p>So, is your leadership/global team looking to:</p>
+						<p><strong>So, is your leadership/global team looking to:</strong></p>
 
 						<ul>
 							<li>move into a regional or global role?</li>
@@ -96,24 +85,32 @@
 							<li>present to international audiences</li>
 						</ul>
 						<br>
+
 						<a name="adv"></a>
 						<h3>The Coaching Advantage!</h3>
 						<span class="topup">[<a href="#">top</a>]</span>
 						<div class="clearfix"></div>
 
-						<p>Cultural knowledge can be learned via training but to achieve cultural competence requires practice. Challenges due to cultural differences can manifest in different ways and having a Coach is a great way to practice as well as hone potential in a diverse environment. Coaching from a Cultural Perspective helps the executive develop new alternative ways of thinking, communicating, managing time, and engaging with international colleagues and business partners with clarity and sensitivity.</p>
+						<p>Cultural knowledge can be learned via training but to achieve cultural competence requires practice. Challenges due to cultural differences can manifest in different ways and having a Coach is a great way to practice as well as hone potential in a diverse environment.   Coaching from a Cultural Perspective helps the executive develop new alternative ways of thinking, communicating, managing time, and engaging with international colleagues and business partners with clarity and sensitivity.</p>
 
 						<a name="coach"></a>
 						<h3>Your Coach</h3>
 						<span class="topup">[<a href="#">top</a>]</span>
 						<div class="clearfix"></div>
 
-						<p>Anita worked in several countries and has systematically and organically learned to navigate ambiguity and differences. As a Coach her focused specialized is Coaching from a Cultural Perspective. Between her life and coaching experience Anita has developed deep questioning skills and perfected the art of observation, reflection and silence; she believes in fostering mutual respect and confidentiality and takes time to explore how far the client feels safe to travel outside their cultural comfort zone. </p>
+						<p>Anita worked in several countries and has systematically and organically learned to navigate ambiguity and differences. As a Coach her focused specialized is Coaching from a Cultural Perspective.  Between her life and coaching experience Anita has developed deep questioning skills and perfected the art of observation, reflection and silence; she believes in fostering mutual respect and confidentiality and takes time to explore how far the client feels safe to travel outside their cultural comfort zone. </p>
+
+						<a name="deliver"></a>
+						<h3>Delivery Format:</h3>
+						<span class="topup">[<a href="#">top</a>]</span>
+						<div class="clearfix"></div>
 
 						<p>I&rsquo;ve Made It sessions help reshape attitudes regarding cultural differences in order to better navigate ethnocentric pitfalls and cultivate curiosity about alternative worldviews.</p>
 
 						<p>I&rsquo;ve Made It coaches accomplish this via a structured workout regimen which includes face-to-face meetings, regular coaching calls, video conferences, and email support.</p>
-
+					</div>
+					<div class="testt">
+						<p class="stylingthis">I’ve Made It - Creating resonance and facilitating growth for global leaders, expats in India, managers and teams with global roles.</p>
 					</div>
 					<div class="testt">
 						<a name="testimonials"></a>
@@ -125,7 +122,6 @@
 								<i><strong>- Karunatillaka, Denushika  - Sri Lankan Expat to India - Unilever</strong></i></p>
 							</blockquote>
 						</div>
-
 					</div>
 				</div>
 				<!--//Footer-->

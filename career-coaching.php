@@ -29,22 +29,9 @@
 		<div id="container-center">
 			<div id="header">
 				<?php include('includes/sm.php'); ?>
-				<h3 class="hide">Header Links</h3>
-				<a href="index.html" id="logo"><span>Return back to home</span></a>
-				<ul id="headerlinks">
-					<li><a href="individual.html" id="sitemap">coaching<br /> 
-						programs</a>
-					</li>
-				</ul>
-				<ul id="headerlinksa">
-					<li><a href="corporate.html" id="accessibility">corporate<br /> 
-						programs</a>
-					</li>
-				</ul>
 			</div>
 			<div id="wrapper">
 				<h3 class="hide">Navigation</h3>
-				<!--//Navigation-->
 
 				<?php include('includes/nav.php'); ?>
 				<div id="advert">
@@ -76,9 +63,9 @@
 								<li><strong>Career Progression:</strong> Continue to stay on Track amidst competition</li>
 								<li><strong>Career Acceleration:</strong> Aspire for New Role locally or globally</li>
 							</ol>
-							<p>At the Job</p>
+							<p>For the Job</p>
 							<ol>
-								<li><strong>Resume Writing/CV :</strong> Compete with International Approaches</li>
+								<li><strong>Resume Writing/CV:</strong> Compete with International Approaches</li>
 								<li><strong>Behavioural Interview Preparation:</strong> Gain Strategic Advantage and get the job</li>
 							</ol>
 						</div>
@@ -101,6 +88,9 @@
 								<li><strong>Fully responsible for your own actions</strong></li>
 								<li><strong>Ready for a change!</strong></li>
 							</ol>
+						</div>
+						<div class="left-border">
+							Gain Career-Clarity.   Sign up for your Free 45 Minute  Coaching Session today on the right panel.
 						</div>
 					</div>
 					<div id="content-right">

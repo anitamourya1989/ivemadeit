@@ -29,18 +29,6 @@
 		<div id="container-center">
 			<div id="header">
 				<?php include('includes/sm.php'); ?>
-				<h3 class="hide">Header Links</h3>
-				<a href="index.html" id="logo"><span>Return back to home</span></a>
-				<ul id="headerlinks">
-					<li><a href="individual.html" id="sitemap">coaching<br /> 
-						programs</a>
-					</li>
-				</ul>
-				<ul id="headerlinksa">
-					<li><a href="corporate.html" id="accessibility">corporate<br /> 
-						programs</a>
-					</li>
-				</ul>
 			</div>
 			<div id="wrapper">
 				<h3 class="hide">Navigation</h3>
@@ -49,7 +37,7 @@
 				<div id="advert">
 					<div id="adv-left">
 						<h3 class="high1">Who We Are</h3>
-						<h5 class="high1">Your Clarity Compass</h5>
+						<h5 class="high1">&nbsp;</h5>
 					</div>
 					<div id="adv-right" style="background-color: #fff;background-image: none;">
 						<img src="http://via.placeholder.com/240x110">
@@ -61,7 +49,7 @@
 						<div id="core-values">
 							<!-- <h3>Who we are</h3> -->
 							<ul>
-								<li><a href="who.html#values" class="left-link">Mission, Vision, Our Promise</a></li>
+								<li><a href="who.html#values" class="left-link">Mission, Vision, Promise</a></li>
 								<li><a href="who.html#client" class="left-link">Our Clients</a></li>
 								<li><a href="who.html#test" class="left-link">Testimonials</a></li>
 								<li><a href="who.html#album" class="left-link">Our Albums</a></li>
@@ -76,14 +64,16 @@
 						</p> -->
 					</div>
 					<div id="content-right">
-						<div style="font-size: 20px;margin: 0 auto;width: 30%;text-align: center;line-height: 26px;"><strong>“I’ve Made It”</strong><br>
-							means being<br>
+						<div style="font-size: 20px;margin: 0 auto;width: 30%;text-align: center;line-height: 26px;">
+							<strong>“I’ve Made It”</strong><br>means being<br>
 							<div style="color: #699bc9;text-align: center;">Intercultural</div><br></div>
 
 							<a name="values"></a>
 							<p>Today, being intercultural is key to living a life which straddles your current world and future reality. Being intercultural is about knowing how “fit in” and to be human - evolving clarity about self and the world’s diversity impacts one’s identity development, work performance, organizational culture, and life itself.</p>
-							<p>At I’ve Made It our Mission is to bridge cultures, manage differences and accelerate productivity.</p>
-							<p><strong>Vision</strong> : I’ve Made It is Your Cultural Clarity Enabler and Accountability Partner</p>
+							<h3>Vision</h3>
+							<p>At I’ve Made It our vision is to bridge cultures, manage differences and generate heart centered success solutions.</p>
+							<h3>Mission</h3>
+							<p>I’ve Made It is Your Cultural Sounding Board and Accountability Partner</p>
 
 							<h3>Our Promise</h3>
 							<span class="topup">[<a href="#">top</a>]</span>
