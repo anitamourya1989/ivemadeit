@@ -29,18 +29,6 @@
 		<div id="container-center">
 			<div id="header">
 				<?php include('includes/sm.php'); ?>
-				<h3 class="hide">Header Links</h3>
-				<a href="index.html" id="logo"><span>Return back to home</span></a>
-				<ul id="headerlinks">
-					<li><a href="individual.html" id="sitemap">coaching<br /> 
-						programs</a>
-					</li>
-				</ul>
-				<ul id="headerlinksa">
-					<li><a href="corporate.html" id="accessibility">corporate<br /> 
-						programs</a>
-					</li>
-				</ul>
 			</div>
 			<div id="wrapper">
 				<h3 class="hide">Navigation</h3>
@@ -51,7 +39,7 @@
 						<h5 class="high1">All our Assests</h5>
 					</div>
 					<div id="adv-right" style="background-color: #fff;background-image: none;">
-						<img src="images/career.jpg">
+						<img src="images/bannerTop/LifeCoaching.jpg">
 					</div>
 				</div>
 				<div id="content">
@@ -83,6 +71,8 @@
 							<li><a href="http://ivemadeit.com/pdf/Cross Cultural Stories on Cultural Nuances to Succeed  Globally.pdf" target="_blank">Cross Cultural Stories on Cultural Nuances to Succeed Globally</a></li>
 						</ul>
 
+						<hr class="style16">
+
 						<div class="clearfix"></div>
 						<a name="ec"></a>
 						<h3>Executive Coaching </h3>
@@ -93,6 +83,8 @@
 							<li><a href="http://ivemadeit.com/pdf/Are you Coachable - A self assessment.pdf" target="_blank">Assessment – Are you Coachable?</a></li>
 							<li><a href="http://ivemadeit.com/pdf/Creating a Powerful Coach Coachee Relationship.pdf" target="_blank">Creating a Powerful Coach Coachee Relationship</a></li>
 						</ul>
+
+						<hr class="style16">
 
 						<div class="clearfix"></div>
 						<a name="st"></a>
@@ -108,6 +100,8 @@
 							<li><a href="https://www.princetonreview.com/quiz/career-quiz" target="_blank">Career Coaching</a><!--  – <a href="https://www.princetonreview.com/quiz/career-quiz" target="_blank">https://www.forbes.com/sites/learnvest/2013/07/09/10-things-you-should-know-about-career-coaching/</a> --></li>
 						</ul>
 
+						<hr class="style16">
+						
 						<div class="clearfix"></div>
 						<a name="life"></a>
 						<h3>Life Coaching </h3>

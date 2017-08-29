@@ -89,7 +89,7 @@
 								<li><strong>Ready for a change!</strong></li>
 							</ol>
 						</div>
-						<div class="left-border">
+						<div class="left-border" style="margin-top: 5em;">
 							Gain Career-Clarity.   Sign up for your Free 45 Minute  Coaching Session today on the right panel.
 						</div>
 					</div>

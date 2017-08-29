@@ -41,7 +41,7 @@
 						<h5 class="high1">Dynamic Rhythm</h5>
 					</div>
 					<div id="adv-right" style="background-color: #fff;background-image: none;">
-						<img src="images/bannerTop/LifeCoaching.jpg">
+						<img src="images/bannerTop/LifeCoach2.jpg">
 					</div>
 				</div>
 
@@ -78,7 +78,7 @@
 						<div class="left-border">
 							<p><i>We believe, coaching is not a set of guidelines on what to do and what not to do but consists of a set of practical principles and actionable insights, inspiring clarity of direction. <strong>- Anita Sachdev</strong></i></p>
 						</div>
-						<div class="left-border">
+						<div class="left-border" style="margin-top: 36em;">
 							Gain Deep Life-Clarity. Sign up for your Free 45 Minute Coaching Session today on the right panel
 						</div>
 					</div>

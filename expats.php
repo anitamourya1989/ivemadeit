@@ -43,7 +43,7 @@
 					</div>
 				</div>
 				<div id="content">
-					<h3 class="breadcrumb">What We Do > Corporate Programs > Expats in India Programs</h3>
+					<h3 class="breadcrumb">Corporate Programs > Expats in India Programs</h3>
 					<div id="content-left">
 						<div id="core-values">
 							<!-- <h3>Career Coaching </h3> -->
@@ -64,11 +64,8 @@
 						</div>
 						<div class="left-border">
 							<p><strong>Building Intercultural Resonance </strong></p>
-
 							<p><strong>Programs &ndash; Expats in India.&nbsp; &nbsp;</strong></p>
-
 							<p><strong>For the Expat: </strong></p>
-
 							<ul>
 								<li>Doing Business and Living in India</li>
 								<li>&nbsp;Indian Mind-set &amp; Work Styles</li>
@@ -76,7 +73,6 @@
 							</ul><br>
 
 							<p><strong>Expat&rsquo;s Teams: </strong></p>
-
 							<ul>
 								<li>Build Commitment and Accountability</li>
 								<li>Virtual/Dispersed Teams <em>India-Global</em></li>
@@ -87,6 +83,8 @@
 						</div>
 					</div>
 					<div id="content-right">
+						<div style="text-align: center;"><img src="images/bannerTop/starbust.jpg"></div>
+						
 						<a name="ccd"></a>
 						<h3>Working in India: The challenge</h3>
 						<span class="topup">[<a href="#">top</a>]</span>
@@ -144,7 +142,9 @@
 
 						<p>Programs are delivered virtually with available technologies, one on one or group interactions to gain macro understanding followed by coaching sessions to support clients during multiple transition periods experienced while doing business in India.  We use varied cultural assessments and during training and coaching sessions work both the alignment and gaps with cultures and flex style to be an effective leader. </p>
 
-						<p>I’ve Made It - Creating resonance and facilitating growth for global leaders, expats in India, managers and teams with global roles.</p>
+					</div>
+					<div class="testt">
+						<p class="stylingthis">I’ve Made It - Creating resonance and facilitating growth for global leaders, expats in India, managers and teams with global roles.</p>
 					</div>
 					<div class="testt">
 						<a name="testimonials"></a>

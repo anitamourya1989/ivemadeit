@@ -36,8 +36,8 @@
 				<?php include('includes/nav.php'); ?>
 				<div id="advert">
 					<div id="adv-left">
-						<h3 class="high1">Who We Are</h3>
-						<h5 class="high1">&nbsp;</h5>
+						<h3 class="high1" style="padding: 13px 10px 23px 0;">Who We Are</h3>
+						<!-- <h5 class="high1">&nbsp;</h5> -->
 					</div>
 					<div id="adv-right" style="background-color: #fff;background-image: none;">
 						<img src="http://via.placeholder.com/240x110">
@@ -56,12 +56,6 @@
 							</ul>
 						</div>
 						<p><i>“The goal isn’t to live forever. The goal is to create something that will.”</i> Chuck Palahniu</p>
-						<!-- photos -->
-						<!-- <p align="center" style="margin-top:350px;">
-							<img src="images/aboutus_1.jpg" style="margin-bottom:30px" border="1" />
-							<img src="images/aboutus_2.jpg" style="margin-bottom:30px" border="1" />
-							<img src="images/aboutus_3.jpg" style="margin-bottom:30px" border="1" />
-						</p> -->
 					</div>
 					<div id="content-right">
 						<div style="font-size: 20px;margin: 0 auto;width: 30%;text-align: center;line-height: 26px;">
@@ -71,7 +65,7 @@
 							<a name="values"></a>
 							<p>Today, being intercultural is key to living a life which straddles your current world and future reality. Being intercultural is about knowing how “fit in” and to be human - evolving clarity about self and the world’s diversity impacts one’s identity development, work performance, organizational culture, and life itself.</p>
 							<h3>Vision</h3>
-							<p>At I’ve Made It our vision is to bridge cultures, manage differences and generate heart centered success solutions.</p>
+							<p>At I’ve Made It our vision is to bridge cultures, manage differences and promote clarity to generate heart centered success solutions. </p>
 							<h3>Mission</h3>
 							<p>I’ve Made It is Your Cultural Sounding Board and Accountability Partner</p>
 

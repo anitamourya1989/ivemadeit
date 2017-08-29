@@ -106,7 +106,7 @@
 
 					</div>
 					<div class="testt">
-						<p>I’ve Made It - Creating resonance and facilitating growth for global leaders, expats in India, managers and teams with global roles.</p>
+						<p class="stylingthis">I’ve Made It - Creating resonance and facilitating growth for global leaders, expats in India, managers and teams with global roles.</p>
 					</div>
 					<div class="testt">
 						<a name="testimonials"></a>
