@@ -81,18 +81,6 @@ if(isset($_POST['submit'])) {
 		<div id="container-center">
 			<div id="header">
 				<?php include('includes/sm.php'); ?>
-				<h3 class="hide">Header Links</h3>
-				<a href="index.html" id="logo"><span>Return back to home</span></a>
-				<ul id="headerlinks">
-					<li><a href="individual.html" id="sitemap">coaching<br /> 
-						programs</a>
-					</li>
-				</ul>
-				<ul id="headerlinksa">
-					<li><a href="corporate.html" id="accessibility">corporate<br /> 
-						programs</a>
-					</li>
-				</ul>
 			</div>
 			<div id="wrapper">
 				<h3 class="hide">Navigation</h3>
@@ -101,8 +89,8 @@ if(isset($_POST['submit'])) {
 				<?php include('includes/nav.php'); ?>
 				<div id="advert">
 					<div id="adv-left">
-						<h3 class="high1">Contact Us</h3>
-						<h5 class="high1">Know us More</h5>
+						<h3 class="high1" style="padding: 13px 10px 23px 0;">Contact Us</h3>
+						<!-- <h5 class="high1">Know us More</h5> -->
 					</div>
 					<div id="adv-right" style="background-color: #fff;background-image: none;">
 						<img src="images/bannerTop/contact_us.jpg">

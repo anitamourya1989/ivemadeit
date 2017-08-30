@@ -53,6 +53,7 @@
 								<li><a href="expertise.html#app" class="left-link">Facilitative Approach & Process</a></li>
 							</ul>
 						</div>
+					<div class="left-border">
 						<h3>Corporate Experience</h3>
 						<ol>
 							<li>25 years in International Communication, Advertising, Marketing,</li>
@@ -86,7 +87,7 @@
 							<li>B.A (Hons) Economics</li>
 						</ol>
 					</div>
-					<div class="left-border" style="margin-top: 250px">
+					<div class="left-border" style="margin-top: 450px">
 						<p><i>The meaning of the word facilitator apparently comes from the Latin word facilitas meaning 'easiness' and the verb facilitate means 'to make easy, promote, help forward'. … In this respect, facilitation is generally about 'holding out a helping hand, removing obstacles and generally creating a smooth pathway for the delegates to pursue their learning journey'.</i></p>
 						<p><strong>-Frances Bee and Roland Bee, 1998</strong></p>
 					</div>

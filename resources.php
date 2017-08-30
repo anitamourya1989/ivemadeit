@@ -35,8 +35,8 @@
 				<?php include('includes/nav.php'); ?>
 				<div id="advert">
 					<div id="adv-left">
-						<h3 class="high1">Resources</h3>
-						<h5 class="high1">All our Assests</h5>
+						<h3 class="high1" style="padding: 13px 10px 23px 0;">Resources</h3>
+						<!-- <h5 class="high1">&nbsp;</h5> -->
 					</div>
 					<div id="adv-right" style="background-color: #fff;background-image: none;">
 						<img src="images/bannerTop/LifeCoaching.jpg">
@@ -58,7 +58,7 @@
 					<div id="content-right">
 						<a name="case"></a>
 						<h3>Case for Cross Cultural Sensitivity Programs and Intercultural Management – A Resource  HR, L&D Heads and Leaders </h3>
-						<!-- <span class="topup">[<a href="#">top</a>]</span> -->
+						<span class="topup">[<a href="#">top</a>]</span>
 						<div class="clearfix"></div>
 						<ul>
 							<li><a href="http://ivemadeit.com/pdf/Key-Findings-BGRS-2016-Global-Mobility-Trends-Survey.pdf" target="_blank">Key Findings BGRS 2016 Global Mobility Trends Survey</a></li>

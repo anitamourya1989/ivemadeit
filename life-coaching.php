@@ -78,8 +78,8 @@
 						<div class="left-border">
 							<p><i>We believe, coaching is not a set of guidelines on what to do and what not to do but consists of a set of practical principles and actionable insights, inspiring clarity of direction. <strong>- Anita Sachdev</strong></i></p>
 						</div>
-						<div class="left-border" style="margin-top: 36em;">
-							Gain Deep Life-Clarity. Sign up for your Free 45 Minute Coaching Session today on the right panel
+						<div class="left-border" style="margin-top: 36em;background-color: #ffee94;font-family: monospace;">
+							<strong>Gain Deep Life-Clarity.</strong><br> <a href="#">Sign up</a> for your Free 45 Minute Coaching Session today on the right panel
 						</div>
 					</div>
 					<div id="content-right">
@@ -140,7 +140,6 @@
 							<a name="testimonials"></a>
 							<div class="vertical">Testimonial</div>
 							<blockquote>
-								<!-- <h3 style="font-size: 13px;"><i>Gain Deep Life-Clarity.   Sign up for your Free 45 Minute Coaching Session today</i></h3> -->
 								<p><i>“A coach is someone who understands and works with the coachee to achieve the goals. I see Anita's approach as action-driven with an in-depth knowledge. It is amazing to be in session with Anita as she navigates through complex human emotions, situations and jumbled thoughts and in a sentence a new world of opportunities would open up for me.  My experience with her is very unique and am now hopeful of my future as a new migrant to Canada”.<br><strong>- R Kodali - Ex-VP Information Technology - R. R. Donnelly</strong></i>
 								<br>
 								<br>

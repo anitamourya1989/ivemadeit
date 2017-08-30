@@ -325,7 +325,11 @@ address {
     padding-top: 10px;
 }
 .stylingthis{
-	
+	background-color: #ffee94;
+    padding: 20px;
+    font-size: 16px;
+    margin: 0;
+    font-family: monospace;
 }
 #content-right a {
 	text-transform: none

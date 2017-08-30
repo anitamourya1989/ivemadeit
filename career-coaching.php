@@ -57,13 +57,13 @@
 						</div>
 						<div class="left-border">
 							<h3>Our Career Services:</h3>
-							<p>At the Job</p>
+							<p style="font-size: 16px;"><strong>At the Job</strong></p>
 							<ol>
 								<li><strong>Career Transition:</strong> Thriving Emotionally & Financially during Change</li>
 								<li><strong>Career Progression:</strong> Continue to stay on Track amidst competition</li>
 								<li><strong>Career Acceleration:</strong> Aspire for New Role locally or globally</li>
 							</ol>
-							<p>For the Job</p>
+							<p style="font-size: 16px;"><strong>For the Job</strong></p>
 							<ol>
 								<li><strong>Resume Writing/CV:</strong> Compete with International Approaches</li>
 								<li><strong>Behavioural Interview Preparation:</strong> Gain Strategic Advantage and get the job</li>
@@ -89,8 +89,8 @@
 								<li><strong>Ready for a change!</strong></li>
 							</ol>
 						</div>
-						<div class="left-border" style="margin-top: 5em;">
-							Gain Career-Clarity.   Sign up for your Free 45 Minute  Coaching Session today on the right panel.
+						<div class="left-border" style="margin-top: 5em;background-color: #ffee94;font-family: monospace;">
+							<strong>Gain Career-Clarity.</strong><br>   <a href="#">Sign up</a> for your Free 45 Minute  Coaching Session today on the right panel.
 						</div>
 					</div>
 					<div id="content-right">
@@ -109,8 +109,8 @@
 
 						<p>In the past, only high-powered VPs and C-level executives used Career Coaches. Now it&#39;s an affordable and accessible service for everyone!</p>
 						<p>In today&#39;s global world, Change is the only constant hence the new norm is hiring coaches to support with career ambitions: <strong><em>be it in Transition, Progression, Transformation or Acceleration. </em></strong></p>
-						<p><strong>Clients have learned over time they can&rsquo;t take a backseat to their own professional development, and have become more proactive about career viz:</strong></p>
-						<ol>
+						<p><strong>Clients have learned they can’t take a backseat to their own professional development, and have become more proactive about career viz:</strong></p>
+						<ul>
 							<li>Move into a new external or global role</li>
 							<li>Immigrating to new country and find jobs</li>
 							<li>Mobilize new career direction</li>
@@ -119,7 +119,7 @@
 							<li>Position yourself for future opportunities with Executive Presence</li>
 							<li>Proactively manage career risks in VUCA world</li>
 							<li>Reexamine working life and personal priorities</li>
-						</ol>
+						</ul><br>
 						<p align="center"><em>For instance, since 2009, we have supported over 100 clients relocating to other countries as immigrants wherein they have to reinvent themselves with transferrable skills to work in  new countries like USA and Canada. We helped them<strong> develop </strong></em><em>career strategies, gave them a scientific approach to write Resume/CV and international method to hone Interview Skills, as well as building personal brand and executive presence.</em></p>
 
 						<a name="deliver"></a>

@@ -2,7 +2,7 @@
 	<li><a href="index.html">Home</a></li>
 	<li><a href="who.html">Who we are</a>
 		<ul>
-			<li><a href="who.html#values">Mission, Vision, Our Promise</a></li>
+			<li><a href="who.html#values">Mission, Vision, Promise</a></li>
 			<li><a href="who.html#client">Our Clients</a></li>
 			<li><a href="who.html#test">Testimonials</a></li>
 			<li><a href="who.html#album">Our Albums</a></li>
