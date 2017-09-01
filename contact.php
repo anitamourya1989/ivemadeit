@@ -50,8 +50,8 @@ if(isset($_POST['submit'])) {
 
 }
 ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html>
 <head>
 	<title>'I've Made It' | Contact Us</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
@@ -105,13 +105,13 @@ if(isset($_POST['submit'])) {
 							<form class="ccc contactForm" method="post" name="ccc" action="">
 								<div><?php echo $msgResp;?></div>
 								<label>Name :</label>
-								<input type="text" name="name">
+								<input type="text" name="name" required="">
 								<label>Email :</label>
-								<input type="email" name="email">
+								<input type="email" name="email" required="">
 								<label>Mobile :</label>
-								<input type="text" name="phone">
+								<input type="text" name="phone" required="">
 								<label>Your Message :</label>
-								<textarea name="msg"></textarea>
+								<textarea name="msg" required=""></textarea>
 								<input type="submit" name="submit" class="csubmit" value="Submit">
 							</form>
 						</div>

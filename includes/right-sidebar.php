@@ -1,5 +1,6 @@
 <?php
 $to = "anita@ivemadeit.com";
+//$to = "contactme@anitamourya.com";
    $msgResp = '';
 if(isset($_POST['submit'])) {
    require 'phpmailer/PHPMailerAutoload.php';
@@ -60,15 +61,15 @@ if(isset($_POST['submit'])) {
 <form class="ccc" method="post" name="ccc" action="">
    <div><?php echo $msgResp;?></div>
    <label>Name :</label>
-   <input type="text" name="name">
+   <input type="text" name="name" required="">
    <label>Email :</label>
-   <input type="email" name="email">
+   <input type="email" name="email" required="">
    <label>Mobile :</label>
-   <input type="text" name="phone">
+   <input type="text" name="phone" required="">
    <label>I would like to be Coached on :</label>
-   <input type="text" name="coach" placeholder="e.g Career, communication, leadership, Cross Cultural">
+   <input type="text" name="coach" placeholder="e.g Career, communication, leadership, Cross Cultural" required="">
    <label>Your Message :</label>
-   <input type="text" name="msg">
+   <input type="text" name="msg" required="">
    <input type="submit" name="submit" class="csubmit" value="Yes I need a Coach to Succeed.">
 </form>
 

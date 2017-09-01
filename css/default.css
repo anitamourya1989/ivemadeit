@@ -801,6 +801,10 @@ ul:after { clear: both; }
 	float: right;
 }
 
+.social-links a {
+	background: none;
+}
+
 .social-links i.fa {
 	font-size: 20px;
 	padding: 0 4px;

@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html>
 <head>
 	<title>'I've Made It' | Expats in India Programs</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -49,10 +49,10 @@
 							<!-- <h3>Career Coaching </h3> -->
 							<ul>
 								<li><a href="#ccd" class="left-link">Working in India: The challenge</a></li>
-								<li><a href="#hires" class="left-link">Doing Business in India: Specific Challenges:</a></li>
+								<li><a href="#hires" class="left-link">Doing Business in India: Specific Challenges</a></li>
 								<li><a href="#deliver" class="left-link">I’ve Made It – Building Intercultural Resonance with India</a></li>
 								<li><a href="#decode" class="left-link">Decoding India: A Framework</a></li>
-								<li><a href="#format" class="left-link">Delivery Format:</a></li>
+								<li><a href="#format" class="left-link">Delivery Format</a></li>
 							</ul>
 						</div>
 						<div class="left-border">
@@ -93,7 +93,7 @@
 						<p>India’s despite its roaring economy and membership of the emerging BRIC bloc, establishing and doing business in India still poses a considerable challenge to multinational organisations.  India is vast and diverse in territory as in population, resources and some unique cultural traits that can create misunderstandings and potential conflict hence a cost to the organizations. </p>
 
 						<a name="hires"></a>
-						<h3>Doing Business in India: Specific Challenges:</h3>
+						<h3>Doing Business in India: Specific Challenges</h3>
 						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 						<ul>
@@ -136,7 +136,7 @@
 						<p>Step 7 – Cracking the code to cultural mastery “The I’ve Made It Way” </p>
 
 						<a name="format"></a>
-						<h3>Delivery Format:</h3>
+						<h3>Delivery Format</h3>
 						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 
