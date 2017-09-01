@@ -8,7 +8,7 @@
 		<li><a href="intercultural-workshops.html">Corporate <br>Programs</a></li>
 		<li><a href="career-coaching.html">Individual <br>Programs</a></li>
 		<li><a href="resources.html">Resources</a></li>
-		<li><a href="blog.html">Blog</a></li>
+		<!-- <li><a href="blog.html">Blog</a></li> -->
 		<li class="last"><a href="contact.html">Contact Us</a></li>
 	</ul>
 </div>

@@ -40,7 +40,7 @@
 						<!-- <h5 class="high1">&nbsp;</h5> -->
 					</div>
 					<div id="adv-right" style="background-color: #fff;background-image: none;">
-						<img src="http://via.placeholder.com/240x110">
+						<img src="images/bannerTop/who.jpg">
 					</div>
 				</div>
 				<div id="content">
@@ -70,7 +70,7 @@
 							<p>I’ve Made It is Your Cultural Sounding Board and Accountability Partner</p>
 
 							<h3>Our Promise</h3>
-							<span class="topup">[<a href="#">top</a>]</span>
+							<span class="topup">[<a href="#navtop">top</a>]</span>
 							<p>Our organization endeavours to develop beliefs, thinking styles and behaviors which formulate into very positive habits to create a signature presence.  Specifically we strive:</p>
 							<ul>
 								<li>For excellence in our services by keeping our clients’ best interests in mind.</li>
@@ -81,7 +81,7 @@
 							<div class="clearfix"></div>
 							<a name="client"></a>
 							<h3>Our Clients</h3>
-							<span class="topup">[<a href="#">top</a>]</span>
+							<span class="topup">[<a href="#navtop">top</a>]</span>
 							<div class="clearfix"></div>
 							<p>Working with forward thinking clients in India, USA, Canada was a learning and enriching experience for all. Here are some of our clients.</p>
 							<div class="clientlogo">
@@ -109,7 +109,7 @@
 						<div id="content">
 							<a name="test"></a>
 							<h3>Testimonials</h3>
-							<span class="topup">[<a href="#">top</a>]</span>
+							<span class="topup">[<a href="#navtop">top</a>]</span>
 							<div class="clearfix"></div>
 							<div class="whobox">
 								<p><h4>Organization Percolates Vision Globally : USA</h4></p>
@@ -174,7 +174,7 @@
 						<div id="content-right">
 							<a name="album"></a>
 							<h3>Our Albums</h3>
-							<span class="topup">[<a href="#">top</a>]</span>
+							<span class="topup">[<a href="#navtop">top</a>]</span>
 							<div class="clearfix"></div>
 							<div class="clientalbums">
 								<h3 class="horiz">Deepening Self</h3>

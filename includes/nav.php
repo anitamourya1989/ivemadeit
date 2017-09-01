@@ -1,3 +1,4 @@
+<a name="navtop"></a>
 <ul class="main-navigation">
 	<li><a href="index.html">Home</a></li>
 	<li><a href="who.html">Who we are</a>
@@ -19,7 +20,7 @@
 		<ul>
 			<li><a href="intercultural-workshops.html">Intercultural Programs</a>
 				<ul>
-					<li><a href="intercultural-workshops.html">Intercultural Workshops</a></li>
+					<li><a href="intercultural-workshops.html">Intercultural Solutions</a></li>
 					<li><a href="expats.html">Expats in India Programs</a></li>
 				</ul>
 			</li>

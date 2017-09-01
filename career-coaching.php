@@ -89,14 +89,14 @@
 								<li><strong>Ready for a change!</strong></li>
 							</ol>
 						</div>
-						<div class="left-border" style="margin-top: 5em;background-color: #ffee94;font-family: monospace;">
+						<div class="left-border card-1">
 							<strong>Gain Career-Clarity.</strong><br>   <a href="#">Sign up</a> for your Free 45 Minute  Coaching Session today on the right panel.
 						</div>
 					</div>
 					<div id="content-right">
 						<a name="ccd"></a>
 						<h3>What is Career Coaching?</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 						<p>Does your career need a new song-sheet or simply some fine tuning?</p>
 						<p>The International Federation of Coaching (ICF) opines that a career coach and career aspirant harmonize in a thought-provoking and creative process that inspires the aspirant to maximize personal and professional potential. </p>
@@ -104,7 +104,7 @@
 						
 						<a name="hires"></a>
 						<h3>I&rsquo;ve Made It Mandate - Career Development by Choice not Chance!</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 
 						<p>In the past, only high-powered VPs and C-level executives used Career Coaches. Now it&#39;s an affordable and accessible service for everyone!</p>
@@ -124,7 +124,7 @@
 
 						<a name="deliver"></a>
 						<h3>I&rsquo;ve Made It&rsquo;s Career-Clarity Approach</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 
 						<p>Our Coaches help you create a Signature Presence by creating corridors of clarity to make achievement a matter of habit.</p>
@@ -134,7 +134,7 @@
 
 						<a name="get"></a>
 						<h3>Get. Set. Go</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 
 						<p>We offer flexible coaching format to suit your lifestyle and affordable prices, I&rsquo;ve Made It is able to provide exceptional tailored programs making best use of their local and international experience with a wide range of coaching frameworks and methodologies. </p>

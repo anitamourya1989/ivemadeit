@@ -46,71 +46,105 @@
 				<div id="content">
 					<h3 class="breadcrumb">Corporate Programs > Coaching > Executive Coaching</h3>
 					<div id="content-left">
-						<!--//Core values-->
 						<div id="core-values">
 							<!-- <h3>Career Coaching </h3> -->
 							<ul>
-								<li><a href="#inter" class="left-link">Executive Coaching</a></li>
-								<li><a href="#adv" class="left-link">The Coaching Advantage!</a></li>
-								<li><a href="#coach" class="left-link">Your Coach</a></li>
+								<!-- <li><a href="#inter" class="left-link">Executive Coaching</a></li> -->
+								<li><a href="#coach" class="left-link">Coaching the I’ve Made It Way</a></li>
+								<li><a href="#adv" class="left-link">The Executive Advantage</a></li>
+								<li><a href="#ycoach" class="left-link">Your Coach </a></li>
+								<li><a href="#deliver" class="left-link">Delivery Format </a></li>
 							</ul>
 						</div>
-						<!-- <div class="left-border">
-							<h3>Our Career Services:</h3>
-							<ol>
-								<li><strong>Career Transition:</strong> Thriving Emotionally & Financially during Change</li>
-								<li><strong>Career Progression:</strong> Continue to stay on Track amidst competition</li>
-								<li><strong>Career Acceleration:</strong> Aspire for New Role locally or globally</li>
-								<li><strong>Resume Writing/CV :</strong> Compete with International Approaches</li>
-								<li><strong>Behavioural Interview Preparation:</strong> Gain Strategic Advantage and get the job</li>
-							</ol>
-						</div> -->
+						<div class="left-border">
+							<h3>Our Coaching Programs </h3>
+							<ul>
+								<li>Executive Coaching</li> 
+								<li>Performance Coaching</li>
+								<li>Managers as Coaches</li>
+								<li>Coaching Remarkable Women</li>
+								<li>Emerging Leaders</li>
+							</ul>
+						</div>
+						<div class="left-border">
+							<h3><strong>Our Coaching Solutions: </strong></h3>
+							<ul>
+								<li>Assess. Clarify. Current and future leaders </li>
+								<li>Identify unique success patterns to fast-track </li>
+								<li>New ways to solve old problems </li>
+								<li>Managing career transition <br>with ease </li>
+								<li>Strengthen self-leadership to lead teams </li>
+								<li>Spark  interpersonal and leadership skill </li>
+								<li>Think Big. Think Expansion. Global Role </li>
+								<li>Gain mastery over stress with mindfulness </li>
+								<li>Balance task and relationship to be people leader </li>
+							</ul>
+						</div>
 					</div>
 					<div id="content-right">
-						<a name="inter"></a>
+						<!-- <a name="inter"></a>
 						<h3>Executive Coaching</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
-						<div class="clearfix"></div>
-						<!-- <p>for Global Leaders, Managers and Teams with Global Roles, Expats in India</p>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
+						<div class="clearfix"></div> -->
 
-						<p>Given the fact over 60% of all international ventures fail due to cross cultural issues, <strong>I&rsquo;ve Made It</strong> strives to ensure organizations succeed globally with a sharper focus on developing intercultural competency and communication. In this hyper-connected world the need of the hour is building understanding between peoples, religions and ways of life.  The mandate for leaders is to leverage cultural differences and proactively see uniqueness in different cultures.</p>
+						<p align="center" style="color: #0e8c00"><strong><em>
+							Essence Coaching creates Alignment Gravitas and Magnetism <br> in today&rsquo;s leaders. 
+							Coaching can model ways of doing, being and feeling that equip people 
+							to thrive in complex environments.
+						</em></strong></p>
 
-						<p>So, is your leadership/global team looking to:</p>
-
-						<ul>
-							<li>move into a regional or global role?</li>
-							<li>sharpen people and leadership management skills?</li>
-							<li>navigate through a complex and ambiguous business landscape?</li>
-							<li>present to international audiences</li>
-						</ul>
-						<br>
-						<a name="adv"></a>
-						<h3>The Coaching Advantage!</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
-						<div class="clearfix"></div>
-
-						<p>Cultural knowledge can be learned via training but to achieve cultural competence requires practice. Challenges due to cultural differences can manifest in different ways and having a Coach is a great way to practice as well as hone potential in a diverse environment. Coaching from a Cultural Perspective helps the executive develop new alternative ways of thinking, communicating, managing time, and engaging with international colleagues and business partners with clarity and sensitivity.</p>
+						<p><strong>I’ve Made Its Executive coaching harmonizes corporate and personal growth delivering multiple moments of clarity.  In an open-ended communication model, we strive to understand the executive’s development needs to craft an appropriate coaching journey. </strong></p>
+						<p>Many people benefit from the clarity of perspective that coaching brings, partly in helping them disentangle and understand complex situations, and partly in helping them sort out their priorities. This means that they can focus on what’s truly important to them and are better equipped to embrace and overcome challenges.  </p>
+						<p>Our coaching programs are tuned to recognizing the emotional drivers of success within each person; revealing any psychological, emotional, spiritual and professional development needs and working through these to create global thought leaders who can thrive in any business environment and align themselves to different cultural tapestries. </p>
 
 						<a name="coach"></a>
-						<h3>Your Coach</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<h3>Coaching the I’ve Made It Way</h3>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 
-						<p>Anita worked in several countries and has systematically and organically learned to navigate ambiguity and differences. As a Coach her focused specialized is Coaching from a Cultural Perspective. Between her life and coaching experience Anita has developed deep questioning skills and perfected the art of observation, reflection and silence; she believes in fostering mutual respect and confidentiality and takes time to explore how far the client feels safe to travel outside their cultural comfort zone. </p>
+						<p>I’ve Made Its “Essence Coaching” is a unique coaching model - firmly hold the positive intention to uncover the essence which is not being expressed behind a behavior.   Infuses clarity to unearth the inner drivers of success within executives; delving deeper to refine and fine tune the inner essence honing leaders who evolve in complex business environments and adapt to cultural differences.  </p>
 
-						<p>I&rsquo;ve Made It sessions help reshape attitudes regarding cultural differences in order to better navigate ethnocentric pitfalls and cultivate curiosity about alternative worldviews.</p>
+						<a name="adv"></a>
+						<h3>The Executive Advantage! </h3>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
+						<div class="clearfix"></div>
 
-						<p>I&rsquo;ve Made It coaches accomplish this via a structured workout regimen which includes face-to-face meetings, regular coaching calls, video conferences, and email support.</p>
- -->
+						<p>How is the essence invoked?  The coaching approach promotes experiential, action learning and designed to allow executives arrive at the core of their power center. This inner drive will reinvigorate their consciousness to shift from transactional to transformational leader to tackle challenges.</p>
+						<p>Executives will arise with renewed vigor and this transformation will speed up the organizations growth pace. </p>
+
+						<p><strong><i>The moment is now!  So; arrive, awake and arise, with crystal clear clarity as you discover your inner essence and achieve the desired.  </i></strong></p>
+
+						<a name="ycoach"></a>
+						<h3>Your Coach</h3>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
+						<div class="clearfix"></div>
+
+						<p>Anita worked in several countries and her solo journey has equipped her with experiences to create resonance with people and situation to facilitate growth with ease. She has systematically and organically learned to navigate ambiguity and differences, a great value for the coachee. Between her spiritual, life and coaching experience she has the ability to stay with the words and meanings which have significance for the coachee; through silence and observation allows for emergence. She believes in fostering mutual respect and confidentiality and takes time to explore how far the client feels safe to travel outside their comfort zone. </p>
+
+						<p>She provides conversational experiences to unravel cognitive complexity and the share from a client Pramod Gothi speaks for itself:</p>
+
+						<p align="center"><em>She strongly displayed the core competency of active listening, empathy and attending skills. Her probing helped me to come out with many facets which I had not shared before. She used metaphors to put the issues more clearly and summarized the conversations very well. Studied my coaching needs before finalizing the goals. Her attending skills put me at ease and allowed me to open up I give my story very freely. My sessions with her helped me in making a shift from being a CEO to a Coach</em></p>
+
+						<a name="deliver"></a>
+						<h3>Delivery Format</h3>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
+						<div class="clearfix"></div>
+
+						<p>We believe, coaching is not a set of guidelines on what to do and what not to do but consists of a set of practical principles and actionable insights and inspiring clarity of direction.   .</p>
+
+						<p>At I&rsquo;ve Made it we take time to systemically understand the coaching requirements and with discussions with all stakeholders calibrate the terms of engagement.  The right coaches are identified and a structure is create for targeted development plan with appropriate assessments and implementation and feedback. We meet with the sponsors once a month to discuss progress and next step.</p>
+
+						<p>I&rsquo;ve Made It coaches accomplish this via a structured regimen which includes face-to-face and/or virtual sessions and email support.  </p>
+
 					</div>
 					<div class="testt">
 						<a name="testimonials"></a>
 						<div class="vertical">Testimonial</div>
 						<blockquote>
 							<!-- <h3 style="font-size: 13px;"><i>Transition from Job to Entrepreneur</i></h3> -->
-							<p><i>My experience with you was thought provoking and enriching session. Since this is my first international work experience, it was a great opportunity to be able to speak with someone who had much knowledge and experience living and working in different countries and experiencing various cultures. The concept of ‘stretch and assimilation’ when it comes to settling into a new culture was very helpful for me and I have made a conscious effort to make it so. Also, the reading material provided also was very useful to consolidate knowledge into simple repeatable models to be practiced. Additionally, the social gatherings and local hotspots suggested to visit were also great opportunities to soak up the ‘real Indian culture’.</i>
+							<p><i>I approached Anita to coach me on expanding my leadership capabilities. What wowed me from the first session were Anita's update to coaching skill-set through which learning become a self-discovery process. Her strong strategic acumen and experience as global business leader enriched discussions and provided hitherto elusive perspective. She struck a delicate balance between asking tough questions and hand-holding. She being a perfectionist drew out only the best in shortest possible time. Overall had a power packed and value enhancing experience which has resulted in everlasting learning and better skills.</i>
 								<br>
-								<i><strong>- Karunatillaka, Denushika  - Sri Lankan Expat to India - Unilever</strong></i></p>
+								<i><strong>- Tanuj Chadha- Sales Director & Market Unit Manager - Pepsico India</strong></i></p>
 							</blockquote>
 						</div>
 
@@ -123,9 +157,7 @@
 				</div>
 			</div>
 			<div id="container-right">
-				<!--//Latest News-->
 				<?php include('includes/right-sidebar.php'); ?>
-				<!--   <a href="news.html" id="morenews"><span>More News</span></a><!--//Company Details-->
 				<h3 class="hide">Company Details</h3>
 			</div>
 			<div class="cleaner"></div>

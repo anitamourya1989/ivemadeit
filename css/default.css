@@ -4,7 +4,7 @@
 }
 body {
 	font-size: 12px; background: url(../images/bg.gif) #e7eff5 repeat-x 0px 0px; 
-	margin: 37px 0px 10px; cursor: default; color: #000; line-height: 18px; 
+	margin: 35px 0px 10px; cursor: default; color: #000; line-height: 18px; 
 	font-family: 'lucida grande',arial,sans-serif; text-align: center;
 }
 
@@ -64,7 +64,7 @@ h2 {
 	font-weight: normal; margin-bottom: 18px; color: #2b5275; line-height: 18px
 }
 h3 {
-	font-weight: normal; margin-bottom: 18px; color: #dc6f04; line-height: 18px;/*#935b42*/
+	font-weight: normal; margin-bottom: 18px; color: #2b5275; line-height: 18px;/*#935b42 #198c0c*/
 }
 h7 {
 	font-weight: normal; margin-bottom: 18px; color: #2b5275; line-height: 18px
@@ -88,7 +88,7 @@ h6 {
 	font-size: 13px; padding-bottom: 5px; border-bottom: #e7eff5 1px solid
 }
 h3 {
-	font-size: 17px; padding-top: 10px;  color: #0e8c00;     font-weight: bold;
+	font-size: 17px; padding-top: 10px;  color: #2b5275;     font-weight: bold;
 }
 h7 {
 	font-size: 17px; padding-bottom: 10px; border-bottom: #e7eff5 1px solid
@@ -108,34 +108,40 @@ ul {
 ol {
 	margin-bottom: 18px;
 }
+.intercultural-solutions ol {
+	margin-bottom: 10px;
+}
 .padtop10{
 	padding-top: 10px;
 }
 .padbot10{
 	padding-bottom: 10px;
 }
-ul
-{
+.padleft10{
+	padding-left: 10px;
+}
+.padleft20{
+	padding-left: 20px;
+}
+ul {
 	list-style-type: none;
 	padding: 0;
 	margin: 0;
 }
-ul li
-{
+ul li {
 	background-image: url(../images/li-bullet.gif);
 	background-repeat: no-repeat;
 	background-position: 0 .6em;
 	padding-left:15px;
 }
-ol li
-{
+ol li {
 	background-repeat: no-repeat;
-	background-position: 0 .6em;    
+	background-position: 0 .6em;
 	padding-left: 4px;
     margin-left: 15px;
 }
 a {
-	background: url(../images/a-underline.gif) repeat-x 100% 100%; PADDING-BOTTOM: 1px; color: #699bc9; TEXT-DECORATION: none
+	background: url(../images/a-underline.gif) repeat-x 100% 100%; padding-bottom: 1px; color: #699bc9; text-decoration: none
 }
 a:hover {
 	color: #2b5275
@@ -338,6 +344,9 @@ address {
 	background: url(../images/a-underline.gif) #f2f6f9 repeat-x 100% 100%
 }
 #advert {
+	margin-top: 10px; float: left; width: 700px
+}
+#main-content-box {
 	margin-top: 10px; float: left; width: 700px
 }
 #advert-left {
@@ -689,16 +698,16 @@ TH.nobg {
 	BORDER-RIGHT: #cedfeb 1px solid; BORDER-TOP: 0px; background: none transparent scroll repeat 0% 0%; BORDER-LEFT: 0px
 }
 TD {
-    PADDING-RIGHT: 6px;
-    PADDING-BOTTOM: 6px;
-    PADDING-TOP: 6px;
-    /*padding-left: 12px;*/
-    /* FONT: 11px auto Arial, Helvetica, sans-serif; */
+    /*padding-right: 6px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    padding-left: 12px;
+    font: 11px auto arial, helvetica, sans-serif;
+    border-bottom: #cedfeb 1px solid;
+	border-right: #cedfeb 1px solid; */
     background: #fff;
     color: #012e5a;
-    BORDER-BOTTOM: #cedfeb 1px solid;
-	BORDER-RIGHT: #cedfeb 1px solid;
-	BORDER: #cedfeb 1px solid;
+	border: #cedfeb 1px solid;
 	padding: 10px;
 }
 TD.alt {
@@ -785,38 +794,39 @@ ul:after { clear: both; }
 
 
 .social-links {
-    display: inline-block;
-    text-align: center;
-    width: 32%;
-    margin-top: 20px;
+	/*display: inline-block;
+	width: 32%;*/
+	text-align: center;
+	margin: 20px;
+	float: right;
 }
 
 .social-links i.fa {
-    font-size: 20px;
-    padding: 0 4px;
-    border-radius: 25px;
-    width: 25px;
-    height: 25px;
-    padding-top: 5px;
-    margin: 0 2px;
-    cursor: pointer;
+	font-size: 20px;
+	padding: 0 4px;
+	border-radius: 25px;
+	width: 25px;
+	height: 25px;
+	padding-top: 5px;
+	margin: 0 2px;
+	cursor: pointer;
 }
 
 .social-links i.fa-facebook {	
-    background: #0066ad;
-    color: #fff;
+	background: #0066ad;
+	color: #fff;
 }
 .social-links i.fa-twitter {
-    background: #4ac7f7;	
-    color: #fff;
+	background: #4ac7f7;	
+	color: #fff;
 }
 .social-links i.fa-linkedin {
-    background: #2b92da;	
-    color: #fff;
+	background: #2b92da;	
+	color: #fff;
 }
 .social-links i.fa-instagram {
-    background: #000;
-    color: #fff;
+	background: #000;
+	color: #fff;
 }
 
 h4.myname {
@@ -891,6 +901,7 @@ h3.high1{
     text-shadow: 2px 5px 0 rgba(0,0,0,0.2);
     margin: 0;
     color: #198c0c;
+    color: #2b5275;
 }
 
 h5.high1{
@@ -916,7 +927,8 @@ h5.high1{
 }
 
 .left-link{
-	color: #dc6f04;
+	color: #2b5275;
+	/*2b5275 dc6f04*/
     font-size: 15px;
     font-weight: bold;
     font-family: "Comic Sans MS", cursive, sans-serif;
@@ -1081,4 +1093,15 @@ h3.horiz {
     padding: 1%;
     background: #eee;
     margin: 1%;
+}
+.card-1 {
+	margin-top: 3em;
+	box-shadow: 0 1px 30px rgba(0,0,0,0.12), 0 1px 20px rgba(0,0,0,0.24);
+	transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+	background-color: #c7c7c7;
+	border: 1px solid #333;
+	/*font-family: monospace;*/
+}
+.card-1 a {
+	color: #0e8c00;
 }

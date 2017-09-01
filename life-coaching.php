@@ -78,14 +78,14 @@
 						<div class="left-border">
 							<p><i>We believe, coaching is not a set of guidelines on what to do and what not to do but consists of a set of practical principles and actionable insights, inspiring clarity of direction. <strong>- Anita Sachdev</strong></i></p>
 						</div>
-						<div class="left-border" style="margin-top: 36em;background-color: #ffee94;font-family: monospace;">
+						<div class="left-border card-1" style="margin-top: 36em;">
 							<strong>Gain Deep Life-Clarity.</strong><br> <a href="#">Sign up</a> for your Free 45 Minute Coaching Session today on the right panel
 						</div>
 					</div>
 					<div id="content-right">
 						<a name="ccd"></a>
 						<h3>Life Coaching – It’s about taking chances and striking the right chord!</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 
 						<p>In today’s world we want it all! And why not!  With the ever-changing landscape and expectations we have of ourselves and for our families, it is difficult to manage, prioritize and bring about the changes to take us where we want to be.  </p>
@@ -95,7 +95,7 @@
 
 						<a name="power"></a>
 						<h3>The Power of Your I’ve Made It Coach</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 
 						<p>Your Coach facilitates enhanced self-awareness to help you develop new ways to address old problems.
@@ -110,7 +110,7 @@
 
 							<a name="hires"></a>
 							<h3>I’ve Made It’s Approach = Proven results</h3>
-							<span class="topup">[<a href="#">top</a>]</span>
+							<span class="topup">[<a href="#navtop">top</a>]</span>
 							<div class="clearfix"></div>
 
 							<p><em>Living life in Dynamic Equilibrium is our deliverable. It&rsquo;s a state of being, where polarities are balanced to propel you towards your goal with utmost balance and peace of mind.  You can be bold yet peaceful.  Energetic yet composed.  Forceful yet poised.</em></p>
@@ -125,7 +125,7 @@
 
 							<a name="deliver"></a>
 							<h3>Get. Set. Go</h3>
-							<span class="topup">[<a href="#">top</a>]</span>
+							<span class="topup">[<a href="#navtop">top</a>]</span>
 							<div class="clearfix"></div>
 
 							<p>Now it’s time for the laser focused sessions. Join some of the wonderful people listed here who took a chance to craft their life: </p>

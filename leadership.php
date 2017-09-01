@@ -40,7 +40,7 @@
 						<h5 class="high1">Signature Presence</h5>
 					</div>
 					<div id="adv-right" style="background-color: #fff;background-image: none;">
-						<img src="images/bannerTop/GroundedLeadership.jpg">
+						<img src="images/bannerTop/GroundedLeadership2.jpg">
 					</div>
 				</div>
 
@@ -56,7 +56,7 @@
 								<li><a href="#coach" class="left-link">Your Coach</a></li>
 							</ul>
 						</div>
-						<div class="left-border">
+						<!-- <div class="left-border">
 							<h3>Our Career Services:</h3>
 							<ol>
 								<li><strong>Career Transition:</strong> Thriving Emotionally & Financially during Change</li>
@@ -65,76 +65,125 @@
 								<li><strong>Resume Writing/CV :</strong> Compete with International Approaches</li>
 								<li><strong>Behavioural Interview Preparation:</strong> Gain Strategic Advantage and get the job</li>
 							</ol>
-						</div>
+						</div> -->
 					</div>
 					<div id="content-right">
 						<a name="inter"></a>
-						<h3>Leadership Programs</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<h3 style="width: 100%;">CREATING RESONANCE, FACILITATING GROWTH</h3>
+						<h3>Today&rsquo;s Mantra - Lead yourself to success</h3>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
-						<p>for Global Leaders, Managers and Teams with Global Roles, Expats in India</p>
 
-						<p>Given the fact over 60% of all international ventures fail due to cross cultural issues, <strong>I&rsquo;ve Made It</strong> strives to ensure organizations succeed globally with a sharper focus on developing intercultural competency and communication. In this hyper-connected world the need of the hour is building understanding between peoples, religions and ways of life.  The mandate for leaders is to leverage cultural differences and proactively see uniqueness in different cultures.</p>
+						<p>In the fast pace of the 21<sup>st</sup> century, everything becomes redundant fast. Hence today&rsquo;s business success stories are from frugal innovation, dynamic young entrepreneurs, companies who disrupt the status quo and grow quickly such as Uber and Airbnb.</p>
 
-						<p>So, is your leadership/global team looking to:</p>
+						<p>As technology surges onward, the need for leaders to be influencers, thought leaders, and great communicators intensifies.  Due to globalization, new norms have come into play and there has been a major shift from hierarchical to flat collaborative team structures.  Flattened structures mean <strong><em>more interpersonal connections which are intentional, influential &amp; impactful.</em></strong></p>
+
+						<p>In response, a new self-leadership approach that ensures leaders evolve has developed wherein: </p>
 
 						<ul>
-							<li>move into a regional or global role?</li>
-							<li>sharpen people and leadership management skills?</li>
-							<li>navigate through a complex and ambiguous business landscape?</li>
-							<li>present to international audiences</li>
+							<li>Leadership doesn&rsquo;t create more followers, but more leaders. </li>
+							<li>A move from leadership style to leadership presence; grounded in being-ness</li>
+							<li>Leaders act as catalysts to draw limitations</li>
+							<li>Attitudes and behaviors lead individuals to think, be, act.</li>
+						</ul><br>
+
+						<h3>The Vision &ndash; The Shift</h3>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
+						<div class="clearfix"></div>
+
+						<p>At its core, self-leadership requires updating of &ldquo;mindset, skillset and toolset&rdquo;.  With Self Leadership being a Catalyst we are moving from the Normal to Fundamental state.  Here&rsquo;s how</p>
+
+						<ul>
+							<li>First, we move from being comfort centered to being results centered; Second, we move from being externally directed to being more internally directed; Third, we become less self-focused and more focused on others; Fourth, we become more open to outside signals or stimuli, including those that require us to do things we are not comfortable doing.</li>
+						</ul><br>
+
+						<h3>I&rsquo;ve Made Its Leadership Framework</h3>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
+						<div class="clearfix"></div>
+
+						<p>We believe a successful leadership framework supports an inspirational future moving outwards from the essence with clarity. It has resonance with all stakeholders while facilitating people and business growth. The polarities are well connected: outer and inner directed, pragmatic and dynamic, past-present to future, purpose and strategy.  Such a framework generates a roadmap to achieve both personal, team and organizational goals congruent with values, capability, behavior and output required to drive business.</p>
+
+						<h3>Moving leaders to Self-leadership : locally and globally</h3>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
+						<div class="clearfix"></div>
+
+						<p>Everyone can be a leader; with self-awareness, self-confidence and self-efficacy they can develop their own leadership expression dependent on their DNA, their mindset, cultural influences and their experiences.</p>
+
+						<p>We encourage participants to assimilate fundamental leadership skills, sparking and refueling leaders to include:</p>
+
+						<ul>
+							<li><strong>Self-Awareness Skills:</strong> Building strength and inherent talent; looking at supportive and debilitating behaviors; perceptions of self and others; personal drivers and life needs.</li>
+							<li><strong>Conceptual Skills:</strong> Distinguishing between fact and opinion; understanding the ladder of abstraction (walking down from lofty abstractions to understandable, communicable, doable, measurable, ground-real, tasks/projects).</li>
+							<li><strong>Thinking Skills:</strong> Systems thinking; Creative thinking</li>
+							<li><strong>Inspiring Communication Skills:</strong>
+								<ul>
+									<li>the skills of micro and macro observation and reflection</li>
+									<li>the business sage&rsquo;s way of listening for what was said, what was felt, what was meant</li>
+									<li>the art of asking enabling, magical and miraculous discovery questions</li>
+									<li>assertive behavior to negotiate and influence</li>
+									<li>managing conflict with grace speaking the truth authentically</li>
+								</ul>
+							</li>
 						</ul>
-						<br>
-						<a name="adv"></a>
-						<h3>The Coaching Advantage!</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+
+						<ul>
+							<li><strong>Accountability Skills:</strong> Understanding 100% responsibility for one&rsquo;s actions at deep level and the results that &lsquo;happened&rsquo;</li>
+							<li><strong>Solution Finding Skills:</strong> Shift problem focus to solution focus at all times.</li>
+							<li><strong>Literary Skills:</strong> Distilling the essential wisdom from the books in the recommended reading list; preparing reviews and sharing the knowledge within the Company.</li>
+							<li><strong>Performance Skills:</strong> Designing new projects that have great value for the organization and executing them in real time with the help of organizational mentors; measuring results and presenting to the top management.</li>
+						</ul><br>
+
+						<p>FOR PROGRAM DETAILS CLICK HERE</p>
+
+						<h3>I&rsquo;ve Made Its Facilitation Driven Delivery</h3>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 
-						<p>Cultural knowledge can be learned via training but to achieve cultural competence requires practice. Challenges due to cultural differences can manifest in different ways and having a Coach is a great way to practice as well as hone potential in a diverse environment. Coaching from a Cultural Perspective helps the executive develop new alternative ways of thinking, communicating, managing time, and engaging with international colleagues and business partners with clarity and sensitivity.</p>
+						<p>Supporting leaders to create a &ldquo;Signature Presence&rdquo; discovered through greater clarity in the Essence of Foundational Leadership.</p>
 
-						<a name="coach"></a>
-						<h3>Your Coach</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<p>Our ability to inspire people to question conventional wisdom and embrace change resulting in positive outcomes is part of our unique style. It blends constructive realism with humor to engage self-awareness and clarity of purpose. People are able to achieve much needed global and local congruence as well developing the ability to have &ldquo;Conversations and Dialogues&rdquo; by transforming communication to connection, which in turn impacts Individual Performance Rate (IPR)</p>
+
+						<p>The Self-leadership approach promotes experiential-action learning and is designed to allow executives arrive at the core of their power. Through effective processes and coaching, the inner drive will reinvigorate their consciousness to shift them from transactional to transformational leadership better equipped to tackle challenges.  Executives will arise with renewed vigor and this transformation will speed up the organizations growth pace. </p>
+
+						<h3>Delivery Format</h3>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 
-						<p>Anita worked in several countries and has systematically and organically learned to navigate ambiguity and differences. As a Coach her focused specialized is Coaching from a Cultural Perspective. Between her life and coaching experience Anita has developed deep questioning skills and perfected the art of observation, reflection and silence; she believes in fostering mutual respect and confidentiality and takes time to explore how far the client feels safe to travel outside their cultural comfort zone. </p>
+						<p>Given the complexity of organizational needs, deep customization determines the formats to bring about the desired state. However, some programs which can be partially customized (80/20). Contact us for more details.</p>
 
-						<p>I&rsquo;ve Made It sessions help reshape attitudes regarding cultural differences in order to better navigate ethnocentric pitfalls and cultivate curiosity about alternative worldviews.</p>
+						<h3>About I&rsquo;ve Made It</h3>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
+						<div class="clearfix"></div>
 
-						<p>I&rsquo;ve Made It coaches accomplish this via a structured workout regimen which includes face-to-face meetings, regular coaching calls, video conferences, and email support.</p>
+						<p><strong>I&rsquo;ve Made It </strong>endowed with exceptional insight into organizations, leaders and teams, and a deep understanding of our clients&rsquo; culture, values, and business priorities. Our corporate clients span Canada, India and USA, and range from entrepreneurial start-ups, to multi-national public companies.</p>
+
+						<p>Over the last decade we have created a reputation for the highest quality program delivery, coaching and a premier global client list. We take great pride in our consistent track record of results, and the enduring, collaborative relationships that we have built with our clients.  </p>
 
 					</div>
 					<div class="testt">
 						<a name="testimonials"></a>
 						<div class="vertical">Testimonial</div>
 						<blockquote>
-							<!-- <h3 style="font-size: 13px;"><i>Transition from Job to Entrepreneur</i></h3> -->
-							<p><i>My experience with you was thought provoking and enriching session. Since this is my first international work experience, it was a great opportunity to be able to speak with someone who had much knowledge and experience living and working in different countries and experiencing various cultures. The concept of ‘stretch and assimilation’ when it comes to settling into a new culture was very helpful for me and I have made a conscious effort to make it so. Also, the reading material provided also was very useful to consolidate knowledge into simple repeatable models to be practiced. Additionally, the social gatherings and local hotspots suggested to visit were also great opportunities to soak up the ‘real Indian culture’.</i>
-								<br>
-								<i><strong>- Karunatillaka, Denushika  - Sri Lankan Expat to India - Unilever</strong></i></p>
-							</blockquote>
-						</div>
-
+							<p><i>"I have had the pleasure to work with Anita on a number of projects over the past year. She has been a strategic and long-term partner to our pharma division in India. Anita has assisted us in developing a vision/mission and also leadership, intercultural management and performance skills training for all employees. .She has also been a coach to the senior global leadership team based in India. </i>
+							<br>
+							<i>I highly recommend Anita as a consultant to any company due to her professionalism, commitment and passion for her projects. She excels in driving behavioural change to increase team performance. Anita challenges teams to think differently, helps identify development needs and plan for improvement."</i><br>
+							<i><strong>- Rodrigo Lima, Managing Director India, Danone-Nutricia Medical Nutrition</strong></i></p>
+						</blockquote>
 					</div>
-				</div>
-				<!--//Footer-->
-				<?php include('includes/footer.php'); ?>
-				<div id="disclaimer">
-					<h3 class="hide">Disclaimer</h3>
+
 				</div>
 			</div>
-			<div id="container-right">
-				<!--//Latest News-->
-				<?php include('includes/right-sidebar.php'); ?>
-				<!--   <a href="news.html" id="morenews"><span>More News</span></a><!--//Company Details-->
-				<h3 class="hide">Company Details</h3>
-            <!-- <address>
-               For more information contact Anita.<br />
-               T: 905.565.5958<br />
-               E: <a href="mailto:anita@ivemadeit.com">anita@ivemadeit.com</a>  <br />
-           </address> -->
-       </div>
-       <div class="cleaner"></div>
-   </div>
+			<!--//Footer-->
+			<?php include('includes/footer.php'); ?>
+			<div id="disclaimer">
+				<h3 class="hide">Disclaimer</h3>
+			</div>
+		</div>
+		<div id="container-right">
+			<?php include('includes/right-sidebar.php'); ?>
+			<h3 class="hide">Company Details</h3>
+		</div>
+		<div class="cleaner"></div>
+	</div>
 </body>
 </html>

@@ -47,7 +47,7 @@
 
 				<?php include('includes/nav.php'); ?>
 
-				<div id="advert">
+				<div id="main-content-box">
 					<div id="advert-left">
 						<ul id="slider-list1" class="slider-list">
 							<li><img src="images/homepage/1_InterculturalManagement.jpg" alt></li>

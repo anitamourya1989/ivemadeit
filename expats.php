@@ -39,7 +39,7 @@
 						<h5 class="high1">Active Harmony</h5>
 					</div>
 					<div id="adv-right" style="background-color: #fff;background-image: none;">
-						<img src="images/bannerTop/ExpatsinIndia.jpg">
+						<img src="images/bannerTop/ExpatIndiaCoaching2.jpg">
 					</div>
 				</div>
 				<div id="content">
@@ -59,17 +59,17 @@
 							<p>2010 Global Trends Survey with 120 multinationals </p>
 							<p><em>&ldquo;According to the report, India is now the second most challenging destination for expatriates, and tops the list of countries for failure rate of international assignments, falling to fourth place in the list of emerging assignment locations&rdquo;. </em></p>
 
-							<p><em>&ldquo;Why so? India is a nation of contrasts, with enormous geographic, linguistic, religious and cultural diversity which means encountering differences is the norm which requires high level of adaptability and cultural agility&rdquo;.&nbsp;&nbsp;</em></p>
+							<p><em>&ldquo;Why so? India is a nation of contrasts, with enormous geographic, linguistic, religious and cultural diversity which means encountering differences is the norm which requires high level of adaptability and cultural agility&rdquo;.  </em></p>
 
 						</div>
 						<div class="left-border">
 							<p><strong>Building Intercultural Resonance </strong></p>
-							<p><strong>Programs &ndash; Expats in India.&nbsp; &nbsp;</strong></p>
+							<p><strong>Programs &ndash; Expats in India.</strong></p>
 							<p><strong>For the Expat: </strong></p>
 							<ul>
 								<li>Doing Business and Living in India</li>
-								<li>&nbsp;Indian Mind-set &amp; Work Styles</li>
-								<li>&nbsp;Communication Western-Indian teams &nbsp;&nbsp;</li>
+								<li>Indian Mind-set &amp; Work Styles</li>
+								<li>Communication Western-Indian teams</li>
 							</ul><br>
 
 							<p><strong>Expat&rsquo;s Teams: </strong></p>
@@ -77,24 +77,24 @@
 								<li>Build Commitment and Accountability</li>
 								<li>Virtual/Dispersed Teams <em>India-Global</em></li>
 								<li>Cultural Capability and Competence</li>
-								<li>Intercultural Communication&nbsp;</li>
+								<li>Intercultural Communication </li>
 							</ul>
 
 						</div>
 					</div>
 					<div id="content-right">
-						<div style="text-align: center;"><img src="images/bannerTop/starbust.jpg"></div>
 						
 						<a name="ccd"></a>
 						<h3>Working in India: The challenge</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 
+						<div style="text-align: center; float: right;"><img src="images/bannerTop/starbust.jpg"></div>
 						<p>India’s despite its roaring economy and membership of the emerging BRIC bloc, establishing and doing business in India still poses a considerable challenge to multinational organisations.  India is vast and diverse in territory as in population, resources and some unique cultural traits that can create misunderstandings and potential conflict hence a cost to the organizations. </p>
 
 						<a name="hires"></a>
 						<h3>Doing Business in India: Specific Challenges:</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 						<ul>
 							<li>Understanding the unifying cultural and diversifying aspects of India </li>
@@ -111,7 +111,7 @@
 
 						<a name="deliver"></a>
 						<h3>I’ve Made It – Building Intercultural Resonance with India</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 
 						<p>I’ve Made It is the perfect bridge between India and the world given our experience over last 2 ½ decades in several countries, multicultural environments, and offering real time solutions to G-Local leaders.</p>
@@ -124,7 +124,7 @@
 
 						<a name="decode"></a>
 						<h3>Decoding India: A Framework</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 
 						<p>Step 1 – Identifying cultural blueprints– India vis-à-vis Expat’s country of origin</p>
@@ -137,7 +137,7 @@
 
 						<a name="format"></a>
 						<h3>Delivery Format:</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 
 						<p>Programs are delivered virtually with available technologies, one on one or group interactions to gain macro understanding followed by coaching sessions to support clients during multiple transition periods experienced while doing business in India.  We use varied cultural assessments and during training and coaching sessions work both the alignment and gaps with cultures and flex style to be an effective leader. </p>

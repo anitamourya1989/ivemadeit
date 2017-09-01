@@ -38,8 +38,8 @@
 						<!-- <h5 class="high1">&nbsp;</h5> -->
 					</div>
 					<div id="adv-right" style="background-color: #fff;background-image: none;">
-						<img src="images/anita.jpg" style="width: 93px;float: right;">
-						<h3 style="float: right;clear: right;">Anita Sachdev</h3>
+						<img src="images/bannerTop/anita.jpg">
+						<!-- <h3 style="float: right;clear: right;">Anita Sachdev</h3> -->
 					</div>
 				</div>
 				<div id="content">
@@ -87,7 +87,7 @@
 							<li>B.A (Hons) Economics</li>
 						</ol>
 					</div>
-					<div class="left-border" style="margin-top: 450px">
+					<div class="left-border" style="margin-top: 375px">
 						<p><i>The meaning of the word facilitator apparently comes from the Latin word facilitas meaning 'easiness' and the verb facilitate means 'to make easy, promote, help forward'. … In this respect, facilitation is generally about 'holding out a helping hand, removing obstacles and generally creating a smooth pathway for the delegates to pursue their learning journey'.</i></p>
 						<p><strong>-Frances Bee and Roland Bee, 1998</strong></p>
 					</div>
@@ -98,43 +98,35 @@
 					<a name="pro"></a>
 
 					<h3>Global Culture Consultant, Facilitator, Essence Coach</h3>
-					<span class="topup">[<a href="#">top</a>]</span>
+					<span class="topup">[<a href="#navtop">top</a>]</span>
 					<div class="clearfix"></div>
 
 					<p><q><i><strong>I believe we are all individual or collective brands capable of packing a global wallop. Success is not the domain of a privileged few. I believe that we have All Made It.</strong></i></q>- Anita Sachdev</p>
 
-					<p>Cultural psychology, cognitive global communication and multi-cultural diversity were always inherent to Anita&rsquo;s professional journey right from initial days in Advertising/Marketing Communication. She worked with Saatchi &amp; Saatchi and Leo Burnett handling brands under the P&amp;G umbrella in India, London, Egypt &amp; Middle East. She went on to lead successful entrepreneurial ventures with NGOs, financial institutions, multi-cultural marketing firms, personal branding strategists and finally spent the last 10 years leading the way for transforming global organizations through facilitation, training &amp; coaching in New York, Canada and India.<br />After relocating to Mumbai from Toronto seven years ago and examining the differences in work and social styles across cultures in developed &amp; emerging markets, she created specific programs to facilitate effective cross-cultural leadership as applicable to India and across the world. As a consultant to several International organizations in India, she has successfully delivered cross-cultural training &amp; global leader programs with coaching to Expat CEO&rsquo;s/GM and their management teams.&nbsp;</p>
+					<p>Cultural psychology, cognitive global communication and multi-cultural diversity were always inherent to Anita&rsquo;s professional journey right from initial days in Advertising/Marketing Communication. She worked with Saatchi &amp; Saatchi and Leo Burnett handling brands under the P&amp;G umbrella in India, London, Egypt &amp; Middle East. She went on to lead successful entrepreneurial ventures with NGOs, financial institutions, multi-cultural marketing firms, personal branding strategists and finally spent the last 10 years leading the way for transforming global organizations through facilitation, training &amp; coaching in New York, Canada and India.<br />After relocating to Mumbai from Toronto seven years ago and examining the differences in work and social styles across cultures in developed &amp; emerging markets, she created specific programs to facilitate effective cross-cultural leadership as applicable to India and across the world. As a consultant to several International organizations in India, she has successfully delivered cross-cultural training &amp; global leader programs with coaching to Expat CEO&rsquo;s/GM and their management teams.</p>
 
 					<p>Success in this space means country-specific cross-cultural awareness & communication strategies, focus on critical competencies of global leadership, relationship building with new global partners/colleagues and virtual teams, emotional agility to manage differences, deep cultural dialogue to manage cultural misunderstanding and impact on productivity, cultural agility to build global mindfulness to drive positive behavioral changes.</p>
 
 					<p>Anita&rsquo;s approach has a solid focus on helping leaders and teams reinvent and adapt their operational styles in their country and the subsequent shifts that are needed in attitude, approach and behavior to be a leader and a team player in a new country. Result: aiding the transition from Global Formality to Global Comfort with the proprietary &ldquo;Uni-Cultural Code&rdquo; delivered via facilitation and coaching.&nbsp;</p>
 
-					<hr class="style16">
-
 					<h3>Facilitation Focus</h3>
-					<span class="topup">[<a href="#">top</a>]</span>
+					<span class="topup">[<a href="#navtop">top</a>]</span>
 					<div class="clearfix"></div>
 					<p>
 						To support leaders and teams to create a “Signature Presence by Creating Corridors of Clarity”. 
 						Her ability to inspire people to question conventional wisdom and embrace change resulting in positive outcomes is part of her unique facilitation style. It blends constructive realism with humor to engage self-awareness and clarity of purpose.  She is known for delivering programs in:  vision facilitation, communication to connect, managers as coaches, strength based leader, present to influence, Cross cultural programs: expat leaders in India, globally competent teams with country specific focus, cross cultural communication. 
 					</p>
 
-					<hr class="style16">
-
 					<h3>Coaching Focus</h3>
-					<span class="topup">[<a href="#">top</a>]</span>
+					<span class="topup">[<a href="#navtop">top</a>]</span>
 					<div class="clearfix"></div>
 					<p>Essence Coaching focus is - Be your own Guru. Become a Transformational Leader. Find your Dynamic Equilibrium. Anita’s approach has a solid focus on Coaching leaders and teams to reinvent and adapt their operational styles in VUCA world along with the shifts in attitude, approach and behavior to be a leader and/or a team player in a new role or international assignment. As a coach, operates from 4 key mindset: Listening deeply, authentic speaking, questioning from a place of wonder, spacious silence. Actively coaches women to be successful leaders and crusades with organization on the need to build “Women Leaders” as well as formalized Diversity and Inclusion practices. She is on the leadership coaching team Executive for Asia: <a href="http://www.executivedevelopment.com/OurTeam/AsiaPacificAPACTeam/tabid/163/Default.aspx">Click here to know more</a></p>
 
-					<hr class="style16">
-
 					<h3>Hobbies</h3>
-					<span class="topup">[<a href="#">top</a>]</span>
+					<span class="topup">[<a href="#navtop">top</a>]</span>
 					<div class="clearfix"></div>
 
-					<p>Anita&rsquo;s &ldquo;wings and roots&rdquo; philosophy reflects her ease in exploring new dimensions in her work held together by a grounded spiritual understanding. &nbsp;She engages the heart with classical Indian music, theatre and films along with reading and appeasing her palate to offering of different cuisines and restaurants with friends and family.</p>
-
-					<hr class="style16">
+					<p>Anita&rsquo;s &ldquo;wings and roots&rdquo; philosophy reflects her ease in exploring new dimensions in her work held together by a grounded spiritual understanding. She engages the heart with classical Indian music, theatre and films along with reading and appeasing her palate to offering of different cuisines and restaurants with friends and family.</p>
 
 					<a name="pro"></a>
 					<!-- <img name="anita" src="images/anita.jpg" alt="Anita Sachdev" /> -->
@@ -144,13 +136,13 @@
 						<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
 						<a href="http://ivemadeit.com/pdf/Anita Profiled in Canadian Newspaper.pdf"
 						target="_blank">Interview with Anita – Canadian paper</a>
-					</div>
-					
-					<hr class="style16">
+					</div><br>
 
 					<a name="phi"></a>
+					<div style="text-align: center;"><img src="images/icons.jpg" style="width: 10%;"></div>
+
 					<h3>Systematic Approach to Consulting Solutions:</h3>
-					<span class="topup">[<a href="#">top</a>]</span>
+					<span class="topup">[<a href="#navtop">top</a>]</span>
 					<div class="clearfix"></div>
 
 					<ul>
@@ -169,13 +161,13 @@
 							</ul>
 						</li>
 						<li>Effective and spacious locations to deliver effective processes and individual reflection.</li>
-					</ul>
-
-					<hr class="style16">
+					</ul><br>
 
 					<a name="app"></a>
+					<div style="text-align: center;"><img src="images/icons.jpg" style="width: 10%;"></div>
+
 					<h3>Facilitative Approach and Process</h3>
-					<span class="topup">[<a href="#">top</a>]</span>
+					<span class="topup">[<a href="#navtop">top</a>]</span>
 					<div class="clearfix"></div>
 
 					<p><strong><em>I&rsquo;ve Made It facilitation, training, coaching support participants to Gain a Voice of Clarity and Self-Realization with deep understanding they have Made It before and with confidence believe they have what it takes to face the future.</em></strong></p>

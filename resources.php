@@ -58,7 +58,7 @@
 					<div id="content-right">
 						<a name="case"></a>
 						<h3>Case for Cross Cultural Sensitivity Programs and Intercultural Management – A Resource  HR, L&D Heads and Leaders </h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 						<ul>
 							<li><a href="http://ivemadeit.com/pdf/Key-Findings-BGRS-2016-Global-Mobility-Trends-Survey.pdf" target="_blank">Key Findings BGRS 2016 Global Mobility Trends Survey</a></li>
@@ -69,27 +69,27 @@
 							<li><a href="http://ivemadeit.com/pdf/Compete and Connect - Developing Globally Competent leaders UC Report.pdf" target="_blank">Compete and Connect - Developing Globally Competent leaders UC Report</a></li>
 							<li><a href="http://ivemadeit.com/Effective Leader -  5 Cross Cultural Tips.pdf" target="_blank">Effective Leader – 5 cross cultural Tips</a></li>
 							<li><a href="http://ivemadeit.com/pdf/Cross Cultural Stories on Cultural Nuances to Succeed  Globally.pdf" target="_blank">Cross Cultural Stories on Cultural Nuances to Succeed Globally</a></li>
-						</ul>
+						</ul><br>
 
-						<hr class="style16">
+						<div style="text-align: center;"><img src="images/icons.jpg" style="width: 7%;"></div>
 
 						<div class="clearfix"></div>
 						<a name="ec"></a>
 						<h3>Executive Coaching </h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 						<ul>
 							<li><a href="http://ivemadeit.com/pdf/The Effectiveness of Executive Coaching- What We Can Learn from the Research Literature .pdf" target="_blank">The effectiveness of Executive Coaching – Research Korn Ferry Institute</a></li>
 							<li><a href="http://ivemadeit.com/pdf/Are you Coachable - A self assessment.pdf" target="_blank">Assessment – Are you Coachable?</a></li>
 							<li><a href="http://ivemadeit.com/pdf/Creating a Powerful Coach Coachee Relationship.pdf" target="_blank">Creating a Powerful Coach Coachee Relationship</a></li>
-						</ul>
+						</ul><br>
 
-						<hr class="style16">
+						<div style="text-align: center;"><img src="images/icons.jpg" style="width: 7%;"></div>
 
 						<div class="clearfix"></div>
 						<a name="st"></a>
 						<h3>Strategic Career </h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 						<ul>
 							<li><a href="http://ivemadeit.com/SuccessIsLego-ConfidenceBoundMag.pdf" target="_blank">Success is a lego</a></li>
@@ -98,14 +98,14 @@
 						<ul>
 							<li><a href="https://www.princetonreview.com/quiz/career-quiz" target="_blank">Free Career Quiz</a><!--  - <a href="https://www.princetonreview.com/quiz/career-quiz" target="_blank">https://www.princetonreview.com/quiz/career-quiz</a> --></li>
 							<li><a href="https://www.princetonreview.com/quiz/career-quiz" target="_blank">Career Coaching</a><!--  – <a href="https://www.princetonreview.com/quiz/career-quiz" target="_blank">https://www.forbes.com/sites/learnvest/2013/07/09/10-things-you-should-know-about-career-coaching/</a> --></li>
-						</ul>
+						</ul><br>
 
-						<hr class="style16">
+						<div style="text-align: center;"><img src="images/icons.jpg" style="width: 7%;"></div>
 						
 						<div class="clearfix"></div>
 						<a name="life"></a>
 						<h3>Life Coaching </h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 						<ul>
 							<li><a href="http://ivemadeit.com/pdf/Achieve What Matters in 2017.pdf" target="_blank">Achieve what matters in 2017</a></li>

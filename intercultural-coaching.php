@@ -70,7 +70,7 @@
 					<div id="content-right">
 						<a name="inter"></a>
 						<h3>Intercultural Coaching</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 						<p>for Global Leaders, Managers and Teams with Global Roles, Expats in India</p>
 
@@ -88,21 +88,21 @@
 
 						<a name="adv"></a>
 						<h3>The Coaching Advantage!</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 
 						<p>Cultural knowledge can be learned via training but to achieve cultural competence requires practice. Challenges due to cultural differences can manifest in different ways and having a Coach is a great way to practice as well as hone potential in a diverse environment.   Coaching from a Cultural Perspective helps the executive develop new alternative ways of thinking, communicating, managing time, and engaging with international colleagues and business partners with clarity and sensitivity.</p>
 
 						<a name="coach"></a>
 						<h3>Your Coach</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 
 						<p>Anita worked in several countries and has systematically and organically learned to navigate ambiguity and differences. As a Coach her focused specialized is Coaching from a Cultural Perspective.  Between her life and coaching experience Anita has developed deep questioning skills and perfected the art of observation, reflection and silence; she believes in fostering mutual respect and confidentiality and takes time to explore how far the client feels safe to travel outside their cultural comfort zone. </p>
 
 						<a name="deliver"></a>
 						<h3>Delivery Format:</h3>
-						<span class="topup">[<a href="#">top</a>]</span>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 
 						<p>I&rsquo;ve Made It sessions help reshape attitudes regarding cultural differences in order to better navigate ethnocentric pitfalls and cultivate curiosity about alternative worldviews.</p>
