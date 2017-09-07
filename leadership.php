@@ -51,9 +51,12 @@
 						<div id="core-values">
 							<!-- <h3>Career Coaching </h3> -->
 							<ul>
-								<li><a href="#inter" class="left-link">Leadership Programs</a></li>
-								<li><a href="#adv" class="left-link">The Coaching Advantage!</a></li>
-								<li><a href="#coach" class="left-link">Your Coach</a></li>
+								<li><a href="#inter" class="left-link">Today’s Mantra - Lead yourself to success</a></li>
+								<li><a href="#2" class="left-link">The Vision – The Shift </a></li>
+								<li><a href="#3" class="left-link">I’ve Made Its Leadership Framework</a></li>
+								<li><a href="#4" class="left-link">Moving leaders to Self-leadership : locally and globally</a></li>
+								<li><a href="#5" class="left-link">I’ve Made Its Facilitation Driven Delivery</a></li>
+								<li><a href="#6" class="left-link">Delivery Format</a></li>
 							</ul>
 						</div>
 						<!-- <div class="left-border">
@@ -69,7 +72,6 @@
 					</div>
 					<div id="content-right">
 						<a name="inter"></a>
-						<h3 style="width: 100%;">CREATING RESONANCE, FACILITATING GROWTH</h3>
 						<h3>Today&rsquo;s Mantra - Lead yourself to success</h3>
 						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
@@ -87,6 +89,7 @@
 							<li>Attitudes and behaviors lead individuals to think, be, act.</li>
 						</ul><br>
 
+						<a name="2"></a>
 						<h3>The Vision &ndash; The Shift</h3>
 						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
@@ -97,13 +100,15 @@
 							<li>First, we move from being comfort centered to being results centered; Second, we move from being externally directed to being more internally directed; Third, we become less self-focused and more focused on others; Fourth, we become more open to outside signals or stimuli, including those that require us to do things we are not comfortable doing.</li>
 						</ul><br>
 
+						<a name="3"></a>
 						<h3>I&rsquo;ve Made Its Leadership Framework</h3>
 						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 
 						<p>We believe a successful leadership framework supports an inspirational future moving outwards from the essence with clarity. It has resonance with all stakeholders while facilitating people and business growth. The polarities are well connected: outer and inner directed, pragmatic and dynamic, past-present to future, purpose and strategy.  Such a framework generates a roadmap to achieve both personal, team and organizational goals congruent with values, capability, behavior and output required to drive business.</p>
 
-						<h3>Moving leaders to Self-leadership : locally and globally</h3>
+						<a name="4"></a>
+						<h3>Moving leaders to Self-leadership : <br>locally and globally</h3>
 						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 
@@ -133,8 +138,10 @@
 							<li><strong>Performance Skills:</strong> Designing new projects that have great value for the organization and executing them in real time with the help of organizational mentors; measuring results and presenting to the top management.</li>
 						</ul><br>
 
-						<p>FOR PROGRAM DETAILS CLICK HERE</p>
+						<!-- <p><a href="http://www.ivemadeit.com/pdf/Leadership-Programs.pdf" target="_blank">FOR PROGRAM DETAILS CLICK HERE</a></p> -->
+						<p><a href="http://www.ivemadeit.com/images/LeadershipPrograms.jpg" target="_blank">FOR PROGRAM DETAILS CLICK HERE</a></p>
 
+						<a name="5"></a>
 						<h3>I&rsquo;ve Made Its Facilitation Driven Delivery</h3>
 						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
@@ -145,12 +152,14 @@
 
 						<p>The Self-leadership approach promotes experiential-action learning and is designed to allow executives arrive at the core of their power. Through effective processes and coaching, the inner drive will reinvigorate their consciousness to shift them from transactional to transformational leadership better equipped to tackle challenges.  Executives will arise with renewed vigor and this transformation will speed up the organizations growth pace. </p>
 
+						<a name="6"></a>
 						<h3>Delivery Format</h3>
 						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 
 						<p>Given the complexity of organizational needs, deep customization determines the formats to bring about the desired state. However, some programs which can be partially customized (80/20). Contact us for more details.</p>
 
+						<a name="7"></a>
 						<h3>About I&rsquo;ve Made It</h3>
 						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>

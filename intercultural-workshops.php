@@ -52,8 +52,9 @@
 						<div id="core-values">
 							<!-- <h3>Career Coaching </h3> -->
 							<ul>
-								<li><a href="#inter" class="left-link">The World Cultural Tapestry  </a></li>
-								<li><a href="#adv" class="left-link">HR and L&amp;D in India</a></li>
+								<!-- <li><a href="#inter" class="left-link">The World Cultural Tapestry  </a></li> -->
+								<li><a href="#adv" class="left-link">HR and L&D role - Global Talent</a></li>
+								<li><a href="#2" class="left-link">Are your leaders culturally competent</a></li>
 								<li><a href="#ve" class="left-link">I&rsquo;ve Made It &ndash; Intercultural Solutions</a></li>
 								<li><a href="#delivery" class="left-link">Intercultural Program Delivery</a></li>
 							</ul>
@@ -100,8 +101,10 @@
 
 						<p>For research papers on Cross Cultural training in India check <a href="http://www.anitamourya.com/demo/ivemadeit/resources.html">RESOURCES</a> section</p>
 
-						<p><strong>Are your teams, leaders and Expats in India </strong>
-						<strong><em>Culturally Competent</em> ?</strong></p>
+						<a name="2"></a>
+						<h3>Are your teams, leaders and Expats in India <i>Culturally Competent</i>?</h3>
+						<span class="topup">[<a href="#navtop">top</a>]</span>
+						<div class="clearfix"></div>
 
 						<p><em>Do they know that someone from a different culture (like China) may be showing them respect by avoiding eye contact in conversation? Culture might also explain delays in decision making or lack of quick response to emails from colleagues or clients in the Middle East. In the West, it is common for managers to ask for opinions and feedback from teams.  However, in some cultures (like India) that behavior may be interpreted as a weakness in leadership.  &lsquo;Saying it like it is&rsquo; may be direct and works in the USA, it may not work in Japan.</em></p>
 
@@ -131,7 +134,7 @@
 							<li>Intercultural Coaching</li>
 						</ul><br>
 
-						<p><a href="http://ivemadeit.com/pdf/2012-Brookfield-Global-Relocations-Trends-Survey.pdf" target="_blank">Click here for intercultural solutions PDF</a></p>
+						<p><a href="http://ivemadeit.com/pdf/intercultural-services.pdf" target="_blank">Click here for intercultural solutions PDF</a></p>
 
 						<a name="delivery"></a>
 						<h3>Intercultural Program Delivery</h3>
@@ -143,7 +146,7 @@
 						</ol> -->
 						<p><strong>a. Clearing the air on how Intercultural Solutions are delivered</strong></p>
 
-						<table border="1" cellpadding="0" cellspacing="0">
+						<table border="1" cellpadding="0" cellspacing="0" style="font-size: 10px;">
 							<tbody>
 								<tr>
 									<td style="width:463px;height:47px;">
@@ -233,7 +236,7 @@
 
 					</div>
 					<div class="testt">
-						<p class="stylingthis">I’ve Made It - Creating resonance and facilitating growth for global leaders, expats in India, managers and teams with global roles.</p>
+						<p class="xstylingthis greep newfont">I’ve Made It - Creating resonance and facilitating growth for global leaders, expats in India, managers and teams with global roles.</p>
 					</div>
 					<div class="testt">
 						<a name="testimonials"></a>

@@ -110,7 +110,7 @@
 						<p>I&rsquo;ve Made It coaches accomplish this via a structured workout regimen which includes face-to-face meetings, regular coaching calls, video conferences, and email support.</p>
 					</div>
 					<div class="testt">
-						<p class="stylingthis">I’ve Made It - Creating resonance and facilitating growth for global leaders, expats in India, managers and teams with global roles.</p>
+						<p class="xstylingthis greep newfont">I’ve Made It - Creating resonance and facilitating growth for global leaders, expats in India, managers and teams with global roles.</p>
 					</div>
 					<div class="testt">
 						<a name="testimonials"></a>

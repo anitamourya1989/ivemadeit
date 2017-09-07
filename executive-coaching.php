@@ -50,7 +50,7 @@
 							<!-- <h3>Career Coaching </h3> -->
 							<ul>
 								<!-- <li><a href="#inter" class="left-link">Executive Coaching</a></li> -->
-								<li><a href="#coach" class="left-link">Coaching the I’ve Made It Way</a></li>
+								<li><a href="#coach" class="left-link">Coaching the I've Made It Way</a></li>
 								<li><a href="#adv" class="left-link">The Executive Advantage</a></li>
 								<li><a href="#ycoach" class="left-link">Your Coach </a></li>
 								<li><a href="#deliver" class="left-link">Delivery Format </a></li>
@@ -93,16 +93,16 @@
 							to thrive in complex environments.
 						</em></strong></p>
 
-						<p><strong>I’ve Made Its Executive coaching harmonizes corporate and personal growth delivering multiple moments of clarity.  In an open-ended communication model, we strive to understand the executive’s development needs to craft an appropriate coaching journey. </strong></p>
-						<p>Many people benefit from the clarity of perspective that coaching brings, partly in helping them disentangle and understand complex situations, and partly in helping them sort out their priorities. This means that they can focus on what’s truly important to them and are better equipped to embrace and overcome challenges.  </p>
+						<p><strong>I've Made Its Executive coaching harmonizes corporate and personal growth delivering multiple moments of clarity.  In an open-ended communication model, we strive to understand the executive's development needs to craft an appropriate coaching journey. </strong></p>
+						<p>Many people benefit from the clarity of perspective that coaching brings, partly in helping them disentangle and understand complex situations, and partly in helping them sort out their priorities. This means that they can focus on what's truly important to them and are better equipped to embrace and overcome challenges.  </p>
 						<p>Our coaching programs are tuned to recognizing the emotional drivers of success within each person; revealing any psychological, emotional, spiritual and professional development needs and working through these to create global thought leaders who can thrive in any business environment and align themselves to different cultural tapestries. </p>
 
 						<a name="coach"></a>
-						<h3>Coaching the I’ve Made It Way</h3>
+						<h3>Coaching the I've Made It Way</h3>
 						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 
-						<p>I’ve Made Its “Essence Coaching” is a unique coaching model - firmly hold the positive intention to uncover the essence which is not being expressed behind a behavior.   Infuses clarity to unearth the inner drivers of success within executives; delving deeper to refine and fine tune the inner essence honing leaders who evolve in complex business environments and adapt to cultural differences.  </p>
+						<p>I've Made Its "Essence Coaching" is a unique coaching model - firmly hold the positive intention to uncover the essence which is not being expressed behind a behavior.   Infuses clarity to unearth the inner drivers of success within executives; delving deeper to refine and fine tune the inner essence honing leaders who evolve in complex business environments and adapt to cultural differences.  </p>
 
 						<a name="adv"></a>
 						<h3>The Executive Advantage! </h3>

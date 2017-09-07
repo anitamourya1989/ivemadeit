@@ -1,65 +1,60 @@
 <?php
 $to = "anita@ivemadeit.com";
 //$to = "contactme@anitamourya.com";
-   $msgResp = '';
+$msgResp = '';
 if(isset($_POST['submit'])) {
-   require 'phpmailer/PHPMailerAutoload.php';
-   extract($_POST);
+	include_once 'phpmailer/PHPMailerAutoload.php';
+	extract($_POST);
 
-   $oname = "Anita Sachdev";
-   $subject = "You got an enquiry";
-   $message = '';
-   $message .= 'Name : '.$name."<br>";
-   $message .= 'Email : '.$email."<br>";
-   $message .= 'Phone : '.$phone."<br>";
-   $message .= 'I would like to be Coached on : '.$coach."<br>";
-   $message .= 'Message : '.$msg."<br>";
+	$oname = "Anita Sachdev";
+	$subject = "You got an enquiry";
+	$message = '';
+	$message .= 'Name : '.$name."<br>";
+	$message .= 'Email : '.$email."<br>";
+	$message .= 'Phone : '.$phone."<br>";
+	$message .= 'I would like to be Coached on : '.$coach."<br>";
+	$message .= 'Message : '.$msg."<br>";
 
-   //Create a new PHPMailer instance
-   $mail = new PHPMailer;
-   //Set who the message is to be sent from
-   $mail->setFrom($email);
-   //Set an alternative reply-to address
-   $mail->addReplyTo($to);//,$oname
-   //Set who the message is to be sent to
-   $mail->addAddress($to);
-   //Set the subject line
-   $mail->Subject = $subject;
-   //Read an HTML message body from an external file, convert referenced images to embedded,
-   //convert HTML into a basic plain-text alternative body
-   $mail->msgHTML($message);
-   //Replace the plain text body with one created manually
-   $mail->AltBody = $message;
+	$message = trim($message);
 
-   //send the message, check for errors
-   if (!$mail->send()) {
-       $msgResp =  "Mailer Error: " . $mail->ErrorInfo;
-   } else {
-       $msgResp =  "Email Sent Successfully!";
-   }
+	//Create a new PHPMailer instance
+	$mail = new PHPMailer;
 
-   /*$headers = "From: $email<br>";
-   $headers .= "Reply-To: $email<br>";
-   //$headers .= "Return-Path: myplace@here.com<br>";
-   //$headers .= "CC: sombodyelse@noplace.com<br>";
-   //$headers .= "BCC: hidden@special.com<br>";
+	/*$mail->IsSMTP();
+	$mail->SMTPAuth   = true;
+	$mail->Host       = "mail.yourdomain.com";
+	$mail->Port       = 26; 
+	$mail->Username   = "yourname@yourdomain";
+	$mail->Password   = "yourpassword";      */
 
-   if ( mail($to,$subject,$message,$headers) ) {
-      $msgResp = "The email has been sent!";
-   } else {
-      $msgResp = "The email has failed!";
-   }*/
+	$mail->setFrom($email);
+	$mail->addReplyTo($to);//,$oname
+	$mail->addAddress($to);
+	$mail->Subject = $subject;
+	$mail->msgHTML($message);
+	$mail->AltBody = $message;
+
+	if(!$email && $message && $name) {
+		$msgResp =  "Please enter required fields";
+	} else {
+		//send the message, check for errors
+		if (!$mail->send()) {
+			$msgResp =  "Mailer Error: " . $mail->ErrorInfo;
+		} else {
+			$msgResp =  "Email Sent Successfully!";
+		}
+	}
 
 }
 ?>
 
 <!-- <h3 class="offer">Our Best Offer</h3> -->
-<h3 class="hugh">Experience the fiercely liberating power of a Coaching Session with me, Anita, ASAP!!</h3>
-<p class="para"><i>Ask for your Free real-time Empower Session Right NoW!</i></p>
+<h3 class="hugh"><center>Experience the fiercely liberating power<br> of a Coaching Session with Anita</center></h3>
+<p class="para"><i><b>Ask for your <e style="color: #ff7e00;">FREE</e> real-time Empower Session NoW!</b></i></p>
 <p class="para">The coaching experience offers a rare opportunity to stand back and take a fresh look at the practices and assumptions of a lifetime. Coaching reaffirms that <i>believing in yourself</i> is one of the most powerful choices you can make!</p>
-<h3 class="hugh">Take the Courage to be coached. And the possibility to change your world forever.</h3>
+<h3 class="hugh">Take the Courage to be coached. And the possibility to change your world forever</h3>
 <form class="ccc" method="post" name="ccc" action="">
-   <div><?php echo $msgResp;?></div>
+   <div style="font-size: 12px;color: #fff;"><?php echo $msgResp;?></div>
    <label>Name :</label>
    <input type="text" name="name" required="">
    <label>Email :</label>
@@ -70,62 +65,9 @@ if(isset($_POST['submit'])) {
    <input type="text" name="coach" placeholder="e.g Career, communication, leadership, Cross Cultural" required="">
    <label>Your Message :</label>
    <input type="text" name="msg" required="">
-   <input type="submit" name="submit" class="csubmit" value="Yes I need a Coach to Succeed.">
+   <input type="submit" name="submit" class="csubmit" value="Yes I need a Coach to Succeed">
 </form>
 
-
-<style type="text/css">
-   .ccc {
-      font-size: 16px;margin: 15px;
-   }
-   .ccc label{
-      display: block;
-      padding: 5px 0;
-   }
-   .ccc .csubmit{
-      border: 1px solid orange;
-      color: #fff;
-      background: orange linear-gradient(orange,#ff8c00);
-      padding: 5px;
-      margin: 10px 0;
-   }
-   .ccc input[type=text], .ccc input[type=email], .ccc textarea {
-      background: #fff;
-      border: 0;
-      display: block;
-      padding: 5px 0;
-      width: 100%;
-   }
-
-
-   .offer {
-      font-size: 22px;
-      padding: 15px 0px 0px 15px;
-      border: 0;
-      color: #bd2129;
-      font-weight: bold;
-   }
-   p.para{
-      font-size: 13px;
-      padding: 0px 14px;
-      color: #e9e9e9;
-   }
-   h3.hugh{
-      font-size: 16px;
-      padding: 15px 14px 0px 14px;
-      border: 0;
-      font-weight: bold;
-      color: #ff7e00;
-   }
-   ul.rightside {  }
-   ul.rightside li {
-      padding: 2px 5px 2px 15px;
-      list-style-type: decimal;
-      background: none;
-      list-style-position: inside;
-      color: #fff;
-   }
-</style>
 <!-- <h3 class="latestnews">Latest News</h3>
    <dl class="latestnews first">
       <dt>

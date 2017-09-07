@@ -4,7 +4,7 @@
 	<title>'I've Made It' | Our Expertise</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 	<meta name="keywords" content="I've made it, Ive made it, I made it, I have made it, training for success, made it, made, success, coaching, personalize success, career change, newcomers, entrepreneurs, rejoining workforce, lunch and learn, corporate training, keynote speaker, life skills coaching, learn to make it, training philosophy, training benefits, proactive habit, you factor, organic success, Interpreter of Success, Made it, I made it, eastern roots, ancient wisdom, innate wisdom, self realization, consciousness, diversity, understanding diversity, compassionate communication, Your DNA of SUccess, thinking styles, learning styles,innovative learning experiences, competitive edge, effectiveness edge,sustainable training,charting future, manifesting success, uniqueness, feel special, project training, manager training, yoga, whole brain thinking, stress, self image,success beliefs, success styles, success wisdom, success knowledge,success habits, success action, DNA, DNA Map, SMART GOALS, self help, speaker, meditation, motivational speaker, self-help guru, get the edge, daily inspiration, customized strategies, Anita Sachdev, Anita, Sachdev," />
-	<meta name="description" content="‘I’ve Made It’ is Training and Education Organization that provides content and methods for enhancing performance to personalize success experiences at work and in life. Train for Success with Anita Sachdev" />
+	<meta name="description" content="‘I've Made It' is Training and Education Organization that provides content and methods for enhancing performance to personalize success experiences at work and in life. Train for Success with Anita Sachdev" />
 	<meta name="author" content="Virtuoso Designs. http://www.virtuoso.ca" />
 	<meta name="copyright" content="© 2007 I've Made It" />
 	<meta name="publisher" content="Virtuoso Designs. http://www.virtuoso.ca" />
@@ -48,7 +48,7 @@
 						<div id="core-values">
 							<!-- <h3>Our Expertise</h3> -->
 							<ul>
-								<li><a href="expertise.html#pro" class="left-link">Anita’s profile</a></li>
+								<li><a href="expertise.html#pro" class="left-link">Anita's profile</a></li>
 								<li><a href="expertise.html#phi" class="left-link">Consulting Solution Approach</a></li>
 								<li><a href="expertise.html#app" class="left-link">Facilitative Approach & Process</a></li>
 							</ul>
@@ -88,7 +88,7 @@
 						</ol>
 					</div>
 					<div class="left-border" style="margin-top: 375px">
-						<p><i>The meaning of the word facilitator apparently comes from the Latin word facilitas meaning 'easiness' and the verb facilitate means 'to make easy, promote, help forward'. … In this respect, facilitation is generally about 'holding out a helping hand, removing obstacles and generally creating a smooth pathway for the delegates to pursue their learning journey'.</i></p>
+						<p><i>The meaning of the word facilitator apparently comes from the Latin word facilitas meaning 'easiness' and the verb facilitate means 'to make easy, promote, help forward'. ... In this respect, facilitation is generally about 'holding out a helping hand, removing obstacles and generally creating a smooth pathway for the delegates to pursue their learning journey'.</i></p>
 						<p><strong>-Frances Bee and Roland Bee, 1998</strong></p>
 					</div>
 
@@ -113,14 +113,14 @@
 					<span class="topup">[<a href="#navtop">top</a>]</span>
 					<div class="clearfix"></div>
 					<p>
-						To support leaders and teams to create a “Signature Presence by Creating Corridors of Clarity”. 
+						To support leaders and teams to create a "Signature Presence by Creating Corridors of Clarity". 
 						Her ability to inspire people to question conventional wisdom and embrace change resulting in positive outcomes is part of her unique facilitation style. It blends constructive realism with humor to engage self-awareness and clarity of purpose.  She is known for delivering programs in:  vision facilitation, communication to connect, managers as coaches, strength based leader, present to influence, Cross cultural programs: expat leaders in India, globally competent teams with country specific focus, cross cultural communication. 
 					</p>
 
 					<h3>Coaching Focus</h3>
 					<span class="topup">[<a href="#navtop">top</a>]</span>
 					<div class="clearfix"></div>
-					<p>Essence Coaching focus is - Be your own Guru. Become a Transformational Leader. Find your Dynamic Equilibrium. Anita’s approach has a solid focus on Coaching leaders and teams to reinvent and adapt their operational styles in VUCA world along with the shifts in attitude, approach and behavior to be a leader and/or a team player in a new role or international assignment. As a coach, operates from 4 key mindset: Listening deeply, authentic speaking, questioning from a place of wonder, spacious silence. Actively coaches women to be successful leaders and crusades with organization on the need to build “Women Leaders” as well as formalized Diversity and Inclusion practices. She is on the leadership coaching team Executive for Asia: <a href="http://www.executivedevelopment.com/OurTeam/AsiaPacificAPACTeam/tabid/163/Default.aspx">Click here to know more</a></p>
+					<p>Essence Coaching focus is - Be your own Guru. Become a Transformational Leader. Find your Dynamic Equilibrium. Anita's approach has a solid focus on Coaching leaders and teams to reinvent and adapt their operational styles in VUCA world along with the shifts in attitude, approach and behavior to be a leader and/or a team player in a new role or international assignment. As a coach, operates from 4 key mindset: Listening deeply, authentic speaking, questioning from a place of wonder, spacious silence. Actively coaches women to be successful leaders and crusades with organization on the need to build "Women Leaders" as well as formalized Diversity and Inclusion practices. She is on the leadership coaching team Executive for Asia: <a href="http://www.executivedevelopment.com/OurTeam/AsiaPacificAPACTeam/tabid/163/Default.aspx">Click here to know more</a></p>
 
 					<h3>Hobbies</h3>
 					<span class="topup">[<a href="#navtop">top</a>]</span>

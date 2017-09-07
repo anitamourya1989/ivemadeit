@@ -102,8 +102,8 @@
 							<li>Process of finding team and management’s motivation and drivers </li>
 							<li>De-code the cultural nuances to elicit change and movement to desired outcomes</li>
 							<li>Working with and /around the system</li>
-							<li>The What and How of “Gaining local commitment” </li>
-							<li>Finding approaches to address the “Un-discussables”</li>
+							<li>The What and How of "Gaining local commitment" </li>
+							<li>Finding approaches to address the "Un-discussables"</li>
 							<li>The process of feedback in face saving culture. </li>
 							<li>Understanding the conflicting norms in decisions</li>
 							<li>What work and what is a pain or a friction point? </li>
@@ -133,7 +133,7 @@
 						<p>Step 4 – Attaining intercultural sensitivity with emotional maturity, flexibility, people skills</p>
 						<p>Step 5 – Building your personal leadership style and tapestry of success </p>
 						<p>Step 6 – Mental and emotional frameworks to - Adapting, Adjusting, Acclimatize </p>
-						<p>Step 7 – Cracking the code to cultural mastery “The I’ve Made It Way” </p>
+						<p>Step 7 – Cracking the code to cultural mastery "The I’ve Made It Way" </p>
 
 						<a name="format"></a>
 						<h3>Delivery Format</h3>
@@ -144,7 +144,7 @@
 
 					</div>
 					<div class="testt">
-						<p class="stylingthis">I’ve Made It - Creating resonance and facilitating growth for global leaders, expats in India, managers and teams with global roles.</p>
+						<p class="xstylingthis greep newfont">I’ve Made It - Creating resonance and facilitating growth for global leaders, expats in India, managers and teams with global roles.</p>
 					</div>
 					<div class="testt">
 						<a name="testimonials"></a>

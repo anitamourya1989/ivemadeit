@@ -57,7 +57,7 @@ $(document).ready(function () {
                 }
                 // ==== ADD DOTS ====
                 if (settings.dots === true) {
-                    self.after('<ul class="slider-dots"></ul>');
+                    self.after('<ul class="slider-dots" style="display:none;"></ul>');
                     var dotsContainer = self.parent('.free-simple-slider').children('.slider-dots');
                     for (var i = 0; i < slideLength; i++) {
                         dotsContainer.append('<li></li>');

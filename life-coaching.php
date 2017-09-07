@@ -38,7 +38,7 @@
 				<div id="advert">
 					<div id="adv-left">
 						<h3 class="high1">Life Coaching</h3>
-						<h5 class="high1">Dynamic Rhythm</h5>
+						<h5 class="high1">Dynamic Equilibrium</h5>
 					</div>
 					<div id="adv-right" style="background-color: #fff;background-image: none;">
 						<img src="images/bannerTop/LifeCoach2.jpg">

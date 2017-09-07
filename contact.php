@@ -1,8 +1,9 @@
 <?php
-$to = "contactme@anitamourya.com";
+$to = "anita@ivemadeit.com";
+//$to = "contactme@anitamourya.com";
 $msgResp = '';
-if(isset($_POST['submit'])) {
-	require 'includes/phpmailer/PHPMailerAutoload.php';
+if(isset($_POST['mainSubmit'])) {
+	include_once 'includes/phpmailer/PHPMailerAutoload.php';
 	extract($_POST);
 
 	$oname = "Anita Sachdev";
@@ -12,41 +13,36 @@ if(isset($_POST['submit'])) {
 	$message .= 'Email : '.$email."<br>";
 	$message .= 'Phone : '.$phone."<br>";
 	$message .= 'Message : '.$msg."<br>";
+	
 
-   //Create a new PHPMailer instance
+	$message = trim($message);
+
+	//Create a new PHPMailer instance
 	$mail = new PHPMailer;
-   //Set who the message is to be sent from
+
+	/*$mail->IsSMTP();
+	$mail->SMTPAuth   = true;
+	$mail->Host       = "mail.yourdomain.com";
+	$mail->Port       = 26; 
+	$mail->Username   = "yourname@yourdomain";
+	$mail->Password   = "yourpassword";      */
+
 	$mail->setFrom($email);
-   //Set an alternative reply-to address
-   $mail->addReplyTo($to);//,$oname
-   //Set who the message is to be sent to
-   $mail->addAddress($to);
-   //Set the subject line
-   $mail->Subject = $subject;
-   //Read an HTML message body from an external file, convert referenced images to embedded,
-   //convert HTML into a basic plain-text alternative body
-   $mail->msgHTML($message);
-   //Replace the plain text body with one created manually
-   $mail->AltBody = $message;
-
-   //send the message, check for errors
-   if (!$mail->send()) {
-   	$msgResp =  "Mailer Error: " . $mail->ErrorInfo;
-   } else {
-   	$msgResp =  "Email Sent Successfully!";
-   }
-
-   /*$headers = "From: $email<br>";
-   $headers .= "Reply-To: $email<br>";
-   //$headers .= "Return-Path: myplace@here.com<br>";
-   //$headers .= "CC: sombodyelse@noplace.com<br>";
-   //$headers .= "BCC: hidden@special.com<br>";
-
-   if ( mail($to,$subject,$message,$headers) ) {
-      $msgResp = "The email has been sent!";
-   } else {
-      $msgResp = "The email has failed!";
-  }*/
+	$mail->addReplyTo($to);//,$oname
+	$mail->addAddress($to);
+	$mail->Subject = $subject;
+	$mail->msgHTML($message);
+	$mail->AltBody = $message;
+ 
+	if(!$email && $message && $name) {
+		$msgResp =  "Please enter required fields";
+	} else {
+		if (!$mail->send()) {
+			$msgResp =  "Mailer Error: " . $mail->ErrorInfo;
+		} else {
+			$msgResp =  "Email Sent Successfully!";
+		}
+	}
 
 }
 ?>
@@ -103,7 +99,7 @@ if(isset($_POST['submit'])) {
 						<div id="core-values">
 							<!-- <h3>Contact Us</h3> -->
 							<form class="ccc contactForm" method="post" name="ccc" action="">
-								<div><?php echo $msgResp;?></div>
+								<div style="text-transform: capitalize; font-size: 12px;"><?php echo $msgResp;?></div>
 								<label>Name :</label>
 								<input type="text" name="name" required="">
 								<label>Email :</label>
@@ -112,7 +108,7 @@ if(isset($_POST['submit'])) {
 								<input type="text" name="phone" required="">
 								<label>Your Message :</label>
 								<textarea name="msg" required=""></textarea>
-								<input type="submit" name="submit" class="csubmit" value="Submit">
+								<input type="submit" name="mainSubmit" class="csubmit" value="Submit">
 							</form>
 						</div>
 					</div>
@@ -128,7 +124,7 @@ if(isset($_POST['submit'])) {
 										<a class="darker" href="mailto:anita@ivemadeit.com" title="Email">
 											anita@ivemadeit.com
 										</a><br /><br />
-										<label style="color: #002060;">Mobile:</label> <a class="darker">96190 19066</a><br />
+										<label style="color: #002060;">Mobile:</label> <a class="darker">+91 96190 19066</a><br />
 									</td>
 									<td width="250" valign="top">
 										<label style="color: #002060;">Website:</label> <a class="darker" href="http://www.ivemadeit.com">www.ivemadeit.com </a> </br><br />

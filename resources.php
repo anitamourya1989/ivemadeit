@@ -57,18 +57,23 @@
 					</div>
 					<div id="content-right">
 						<a name="case"></a>
-						<h3>Case for Cross Cultural Sensitivity Programs and Intercultural Management – A Resource  HR, L&D Heads and Leaders </h3>
+						<h3>Case for Cross Cultural Sensitivity Programs and Intercultural Management - A Resource HR, L&D Heads and Leaders </h3>
 						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 						<ul>
+							<li><a href="http://ivemadeit.com/pdf/Doing Business in India Paper Seeta Gupta 2016.pdf" target="_blank">Doing Business in India - White Paper Dr. Seeta Gupta 2016</li>
+							<li><a href="http://ivemadeit.com/pdf/Doing Business in India Paper Seeta Gupta 2016.pdf" target="_blank">International company adapt to Culture and be flexible to local behaviours - <br>Soo Jin Lee Cornell University</li>
+							<!-- <li><a href="http://ivemadeit.com/pdf/Article International be Global local.pdf" target="_blank">Article International be Global local</a></li>
+							<li><a href="http://ivemadeit.com/pdf/Developing Globally Competent Leaders - A study.pdf" target="_blank">Developing Globally Competent Leaders - A study</a></li> -->
+							<li><a href="http://ivemadeit.com/pdf/3 SKILLS MANAGERS NEED 21ST CENTURY MOLINKSY.pdf" target="_blank">3 skills Managers need in the 21st Century - Andy Molinksy</a></li>
+							<li><a href="http://ivemadeit.com/pdf/Compete and Connect - Developing Globally Competent leaders UC Report.pdf" target="_blank">Compete and Connect - Developing Globally Competent leaders - UC Report</a></li>
+							<li><a href="http://ivemadeit.com/pdf/Effective Leader -  5 Cross Cultural Tips.pdf" target="_blank">Become a better Leader - 5 cross cultural Tips - Peter Gasca</a></li>
+							<li><a href="http://ivemadeit.com/pdf/Cross Cultural Stories on Cultural Nuances to Succeed  Globally.pdf" target="_blank">Cross Cultural Stories on Cultural Nuances to Succeed Globally - <br>Raju Chebium</a></li>
+							<li><a href="https://hbr.org/2017/07/being-the-boss-in-brussels-boston-and-beijing" target="_blank">https://hbr.org/2017/07/being-the-boss-in-brussels-boston-and-beijing - <br>Erin Meyer</a></li>
 							<li><a href="http://ivemadeit.com/pdf/Key-Findings-BGRS-2016-Global-Mobility-Trends-Survey.pdf" target="_blank">Key Findings BGRS 2016 Global Mobility Trends Survey</a></li>
-							<li><a href="http://ivemadeit.com/pdf/Doing Business in India Paper Seeta Gupta 2016.pdf" target="_blank">Doing Business in India Paper Seeta Gupta 2016</li>
-							<li><a href="http://ivemadeit.com/pdf/Article International be Global local.pdf" target="_blank">Article International be Global local</a></li>
-							<li><a href="http://ivemadeit.com/pdf/Developing Globally Competent Leaders - A study.pdf" target="_blank">Developing Globally Competent Leaders - A study</a></li>
-							<li><a href="http://ivemadeit.com/pdf/3 SKILLS MANAGERS NEED 21ST CENTURY MOLINKSY.pdf" target="_blank">3 skills Managers need in the 21st Century Molinksy</a></li>
-							<li><a href="http://ivemadeit.com/pdf/Compete and Connect - Developing Globally Competent leaders UC Report.pdf" target="_blank">Compete and Connect - Developing Globally Competent leaders UC Report</a></li>
-							<li><a href="http://ivemadeit.com/Effective Leader -  5 Cross Cultural Tips.pdf" target="_blank">Effective Leader – 5 cross cultural Tips</a></li>
-							<li><a href="http://ivemadeit.com/pdf/Cross Cultural Stories on Cultural Nuances to Succeed  Globally.pdf" target="_blank">Cross Cultural Stories on Cultural Nuances to Succeed Globally</a></li>
+							<h3>Video</h3>
+							<li><a href="https://www.youtube.com/watch?v=TGoQ6hgbwC8" target="_blank">Learning Cross Cultural Communication to avoid conflict</a></li>
+							<li><a href="https://www.youtube.com/watch?v=kujUs_6qeUI&t=145s" target="_blank">Secrets of Cross Cultural Communication by Professor Jeanne Brett</a></li>
 						</ul><br>
 
 						<div style="text-align: center;"><img src="images/icons.jpg" style="width: 7%;"></div>
@@ -79,9 +84,11 @@
 						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 						<ul>
-							<li><a href="http://ivemadeit.com/pdf/The Effectiveness of Executive Coaching- What We Can Learn from the Research Literature .pdf" target="_blank">The effectiveness of Executive Coaching – Research Korn Ferry Institute</a></li>
-							<li><a href="http://ivemadeit.com/pdf/Are you Coachable - A self assessment.pdf" target="_blank">Assessment – Are you Coachable?</a></li>
-							<li><a href="http://ivemadeit.com/pdf/Creating a Powerful Coach Coachee Relationship.pdf" target="_blank">Creating a Powerful Coach Coachee Relationship</a></li>
+							<li><a href="http://ivemadeit.com/pdf/The Effectiveness of Executive Coaching- What We Can Learn from the Research Literature .pdf" target="_blank">The effectiveness of Executive Coaching - Research Korn Ferry Institute</a></li>
+							<li><a href="http://ivemadeit.com/pdf/Are you Coachable - A self assessment.pdf" target="_blank">Assessment - Are you Coachable?</a></li>
+							<li><a href="http://ivemadeit.com/pdf/Creating a Powerful Coach Coachee Relationship.pdf" target="_blank">Creating a Powerful Coach Coachee Partnerships</a></li>
+							<h3>Video</h3>
+							<li><a href="https://www.youtube.com/watch?v=2mf_3d8hHlk" target="_blank">Everyone needs a coach Bill Gates Eric Schmidt</a></li>
 						</ul><br>
 
 						<div style="text-align: center;"><img src="images/icons.jpg" style="width: 7%;"></div>
@@ -92,12 +99,12 @@
 						<span class="topup">[<a href="#navtop">top</a>]</span>
 						<div class="clearfix"></div>
 						<ul>
-							<li><a href="http://ivemadeit.com/SuccessIsLego-ConfidenceBoundMag.pdf" target="_blank">Success is a lego</a></li>
-							<li><a href="http://ivemadeit.com/WhichJobSuitsMe-ConfidenceBoundAprilIssue.pdf" target="_blank">Which job is good for me..</a></li>
+							<li><a href="http://ivemadeit.com/SuccessIsLego-ConfidenceBoundMag.pdf" target="_blank">Success is a lego - Anita Sachdev</a></li>
+							<li><a href="http://ivemadeit.com/WhichJobSuitsMe-ConfidenceBoundAprilIssue.pdf" target="_blank">Which job is good for me - Anita Sachdev</a></li>
 						</ul>
 						<ul>
 							<li><a href="https://www.princetonreview.com/quiz/career-quiz" target="_blank">Free Career Quiz</a><!--  - <a href="https://www.princetonreview.com/quiz/career-quiz" target="_blank">https://www.princetonreview.com/quiz/career-quiz</a> --></li>
-							<li><a href="https://www.princetonreview.com/quiz/career-quiz" target="_blank">Career Coaching</a><!--  – <a href="https://www.princetonreview.com/quiz/career-quiz" target="_blank">https://www.forbes.com/sites/learnvest/2013/07/09/10-things-you-should-know-about-career-coaching/</a> --></li>
+							<li><a href="https://www.princetonreview.com/quiz/career-quiz" target="_blank">Career Coaching</a><!--  - <a href="https://www.princetonreview.com/quiz/career-quiz" target="_blank">https://www.forbes.com/sites/learnvest/2013/07/09/10-things-you-should-know-about-career-coaching/</a> --></li>
 						</ul><br>
 
 						<div style="text-align: center;"><img src="images/icons.jpg" style="width: 7%;"></div>
@@ -110,8 +117,8 @@
 						<ul>
 							<li><a href="http://ivemadeit.com/pdf/Achieve What Matters in 2017.pdf" target="_blank">Achieve what matters in 2017</a></li>
 							<li><a href="http://ivemadeit.com/pdf/Core Coaching Competencies - Reference Guide for Coachees.pdf" target="_blank">Core Coaching Competencies - Reference Guide for Coachees</a></li>
-							<li><a href="http://ivemadeit.com/pdf/Are you Coachable - A self assessment.pdf" target="_blank">Assessment – Are You Coachable</a></li>
-							<li><a href="http://ivemadeit.com/pdf/Anita Sachdev - Life Begins When Comfort Zone Ends.pdf" target="_blank">Anita Sachdev - Life Begins When Comfort Zone Ends</a></li>
+							<li><a href="http://ivemadeit.com/pdf/Are you Coachable - A self assessment.pdf" target="_blank">Assessment - Are You Coachable</a></li>
+							<li><a href="http://ivemadeit.com/pdf/Anita Sachdev - Life Begins When Comfort Zone Ends.pdf" target="_blank">Life Begins When Comfort Zone Ends</a></li>
 						</ul>
 					</div>
 				</div>

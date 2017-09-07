@@ -3,17 +3,17 @@
 	<li><a href="index.html">Home</a></li>
 	<li><a href="who.html">Who we are</a>
 		<ul>
-			<li><a href="who.html#values">Mission, Vision, Promise</a></li>
-			<li><a href="who.html#client">Our Clients</a></li>
-			<li><a href="who.html#test">Testimonials</a></li>
-			<li><a href="who.html#album">Our Albums</a></li>
+			<li><a href="who.html">Mission, Vision, Promise</a></li><!-- #values -->
+			<li><a href="who.html">Our Clients</a></li><!-- #client -->
+			<li><a href="who.html">Testimonials</a></li><!-- #test -->
+			<li><a href="who.html">Our Albums</a></li><!-- #album -->
 		</ul>
 	</li>
 	<li><a href="expertise.html">Our Expertise</a>
 		<ul>
-			<li><a href="expertise.html#pro">Anita's profile</a></li>
-			<li><a href="expertise.html#phi">Consulting Solution Approach</a></li>
-			<li><a href="expertise.html#app">Facilitative Approach & Process</a></li>
+			<li><a href="expertise.html">Anita's profile</a></li><!-- #pro -->
+			<li><a href="expertise.html">Consulting Solution Approach</a></li><!-- #phi -->
+			<li><a href="expertise.html">Facilitative Approach & Process</a></li><!-- #app -->
 		</ul>
 	</li>
 	<li><a href="intercultural-workshops.html">Corporate Programs</a>

@@ -50,8 +50,8 @@
 							<!-- <h3>Career Coaching </h3> -->
 							<ul>
 								<li><a href="#ccd" class="left-link">What is Career Coaching?</a></li>
-								<li><a href="#hires" class="left-link">I’ve Made It Mandate </a></li>
-								<li><a href="#deliver" class="left-link">I’ve Made It’s Career-Clarity Approach</a></li>
+								<li><a href="#hires" class="left-link">I've Made It Mandate </a></li>
+								<li><a href="#deliver" class="left-link">I've Made It's Career-Clarity Approach</a></li>
 								<li><a href="#get" class="left-link">Get. Set. Go</a></li>
 							</ul>
 						</div>
@@ -109,7 +109,7 @@
 
 						<p>In the past, only high-powered VPs and C-level executives used Career Coaches. Now it&#39;s an affordable and accessible service for everyone!</p>
 						<p>In today&#39;s global world, Change is the only constant hence the new norm is hiring coaches to support with career ambitions: <strong><em>be it in Transition, Progression, Transformation or Acceleration. </em></strong></p>
-						<p><strong>Clients have learned they can’t take a backseat to their own professional development, and have become more proactive about career viz:</strong></p>
+						<p><strong>Clients have learned they can't take a backseat to their own professional development, and have become more proactive about career viz:</strong></p>
 						<ul>
 							<li>Move into a new external or global role</li>
 							<li>Immigrating to new country and find jobs</li>

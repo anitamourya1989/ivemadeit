@@ -4,7 +4,7 @@
 	<title>'I've Made It' | Who we are</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 	<meta name="keywords" content="I've made it, Ive made it, I made it, I have made it, training for success, made it, made, success, coaching, personalize success, career change, newcomers, entrepreneurs, rejoining workforce, lunch and learn, corporate training, keynote speaker, life skills coaching, learn to make it, training philosophy, training benefits, proactive habit, you factor, organic success, Interpreter of Success, Made it, I made it, eastern roots, ancient wisdom, innate wisdom, self realization, consciousness, diversity, understanding diversity, compassionate communication, Your DNA of SUccess, thinking styles, learning styles,innovative learning experiences, competitive edge, effectiveness edge,sustainable training,charting future, manifesting success, uniqueness, feel special, project training, manager training, yoga, whole brain thinking, stress, self image,success beliefs, success styles, success wisdom, success knowledge,success habits, success action, DNA, DNA Map, SMART GOALS, self help, speaker, meditation, motivational speaker, self-help guru, get the edge, daily inspiration, customized strategies, Anita Sachdev, Anita, Sachdev," />
-	<meta name="description" content="‘I’ve Made It’ is Training and Education Organization that provides content and methods for enhancing performance to personalize success experiences at work and in life. Train for Success with Anita Sachdev" />
+	<meta name="description" content="‘I've Made It' is Training and Education Organization that provides content and methods for enhancing performance to personalize success experiences at work and in life. Train for Success with Anita Sachdev" />
 	<meta name="author" content="Virtuoso Designs. http://www.virtuoso.ca" />
 	<meta name="copyright" content="© 2007 I've Made It" />
 	<meta name="publisher" content="Virtuoso Designs. http://www.virtuoso.ca" />
@@ -55,27 +55,27 @@
 								<li><a href="who.html#album" class="left-link">Our Albums</a></li>
 							</ul>
 						</div>
-						<p><i>“The goal isn’t to live forever. The goal is to create something that will.”</i> Chuck Palahniu</p>
+						<p><i>"The goal isn't to live forever. The goal is to create something that will."</i> Chuck Palahniu</p>
 					</div>
 					<div id="content-right">
 						<div style="font-size: 20px;margin: 0 auto;width: 30%;text-align: center;line-height: 26px;">
-							<strong>“I’ve Made It”</strong><br>means being<br>
-							<div style="color: #699bc9;text-align: center;">Intercultural</div><br></div>
+							<strong>"I've Made It"</strong><br>means being<br>
+							<div style="color: #2b5275;text-align: center;">Intercultural</div><br></div>
 
 							<a name="values"></a>
-							<p>Today, being intercultural is key to living a life which straddles your current world and future reality. Being intercultural is about knowing how “fit in” and to be human - evolving clarity about self and the world’s diversity impacts one’s identity development, work performance, organizational culture, and life itself.</p>
+							<p>Today, being intercultural is key to living a life which straddles your current world and future reality. Being intercultural is about knowing how "fit in" and to be human - evolving clarity about self and the world's diversity impacts one's identity development, work performance, organizational culture, and life itself.</p>
 							<h3>Vision</h3>
-							<p>At I’ve Made It our vision is to bridge cultures, manage differences and promote clarity to generate heart centered success solutions. </p>
+							<p>At I've Made It our vision is to bridge cultures, manage differences and promote clarity to generate heart centered success solutions. </p>
 							<h3>Mission</h3>
-							<p>I’ve Made It is Your Cultural Sounding Board and Accountability Partner</p>
+							<p>I've Made It is Your Cultural Sounding Board and Accountability Partner</p>
 
 							<h3>Our Promise</h3>
 							<span class="topup">[<a href="#navtop">top</a>]</span>
 							<p>Our organization endeavours to develop beliefs, thinking styles and behaviors which formulate into very positive habits to create a signature presence.  Specifically we strive:</p>
 							<ul>
-								<li>For excellence in our services by keeping our clients’ best interests in mind.</li>
+								<li>For excellence in our services by keeping our clients' best interests in mind.</li>
 								<li>To find best strategies and solutions by considering all relevant factors when helping to resolve <i>complex intercultural issues</i> faced by Expats, leaders and  teams working across borders.</li>
-								<li>To uphold “structured-flexibility” as the company’s core value.</li>
+								<li>To uphold "structured-flexibility" as the company's core value.</li>
 								<li>For sharper clarity in outcomes.</li>
 							</ul><br>
 							<div class="clearfix"></div>
@@ -165,7 +165,7 @@
 								<p><strong><em>Darayus B. Ex-CFO,&nbsp; Rabo Bank</em></strong></p>
 								<!-- <hr> -->
 
-								<p>Anita is a very perceptive, generous coach, who correctly and quickly assesses the needs of her clients to ensure they get the best out of the coaching experience as a whole, and out of every session. A knowledgeable professional in her field, I have found her approach to help me problem solve and decision making were useful. Alongside short-term results, she has been very focused on the bigger picture, how to efficiently use my strengths, and develop long-term sustainable solutions to become an effective leader. I am very happy to have found Anita, and am finding the coaching experience under her tutelage extremely beneficial to all aspects of my life so important when living in a new country”.</p>
+								<p>Anita is a very perceptive, generous coach, who correctly and quickly assesses the needs of her clients to ensure they get the best out of the coaching experience as a whole, and out of every session. A knowledgeable professional in her field, I have found her approach to help me problem solve and decision making were useful. Alongside short-term results, she has been very focused on the bigger picture, how to efficiently use my strengths, and develop long-term sustainable solutions to become an effective leader. I am very happy to have found Anita, and am finding the coaching experience under her tutelage extremely beneficial to all aspects of my life so important when living in a new country".</p>
 
 								<p><em><strong>E.F. Vander Elst</strong></em></p>
 							</div>
